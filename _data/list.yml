@@ -9,11 +9,13 @@
    link: http://www.fpi-productions.de/tsrp2.html
    link-type: website
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvuoU_w2uX2sM90D2o0yqFU
+   pl-src: raolists
 
  - name: Super Mario Infinity&colon; Mystery of the Magic Wand
-   link: http://smwdb.me/db/2/27cbf2085ba8917ab2bba8af5cf27a9ee57282a5/index.htm
-   link-type: smwdb
+   link: https://www.smwcentral.net/?p=section&a=details&id=19547
+   link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtTf91zTDHWF5Lezs4TPbcS
+   pl-src: raolists
    
  - name: Super Challenge World
    link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
@@ -40,24 +42,84 @@
    link-type: smwdb
  
  - name: VIP Mario
+   link: https://www.smwcentral.net/?p=section&a=details&id=9706
+   link-type: smwc
+   
  - name: "Super Mario Infinity 2: The Cursed Gem"
+   link: http://smwdb.me/db/7/78d7dcbde1be2527d1b01c1385a90ef2c686decb/
+   link-type: smwdb
+ 
  - name: Mario's Return
+   link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
+   link-type: smwdb
+ 
  - name: The Ninji Saga
+   link: http://smwdb.me/db/0/0a6eadf34278b91e86c267799d3e757860ef6f90/
+   link-type: smwdb
+ 
  - name: Rob-Omb's Quest
+   link: http://smwdb.me/db/2/248cac1f2e75e65fb1bf23b34fd15f7600c894da/
+   link-type: smwdb
+   
  - name: VIP Mario 2
+   link: https://www.smwcentral.net/?p=section&a=details&id=9821
+   link-type: smwc
+ 
  - name: VIP Mario 3
+   link: https://www.smwcentral.net/?p=section&a=details&id=10027
+   link-type: smwc
+ 
  - name: "Super Mario World Plus 2: Mystical Island"
+   link: http://smwdb.me/db/3/32142643d567983bb3db3beaadae79b0ab2820a9/
+   link-type: smwdb
+ 
  - name: Chaos CompleXX
+   link: http://www.fpi-productions.de/chaos-complexx.html
+   link-type: website
+   
  - name: Luigi's Adventure
+   link: http://smwdb.me/db/0/0058abea67256b1aad68e836cfa46015d2fdce53/
+   link-type: smwdb
+ 
  - name: VIP Mario 4
+   link: https://www.smwcentral.net/?p=section&a=details&id=9799
+   link-type: smwc
+ 
  - name: Kamek's Revenge
+   link: https://tinsin.neocities.org/assets/img/smwcentral.png
+   link-type: smwc
+ 
  - name: "Commander Keen: Marooned on Mars"
+   link: http://store.steampowered.com/app/9180/
+   link-type: steam
+ 
  - name: "Commander Keen 2: The Earth Explodes"
+   link: http://store.steampowered.com/app/9180/
+   link-type: steam
+   
  - name: "Commander Keen 3: Keen Must Die"
+   link: http://store.steampowered.com/app/9180/
+   link-type: steam
+ 
  - name: "Commander Keen: Keen Dreams"
+   link: https://store.steampowered.com/app/356200/
+   link-type: steam
+ 
  - name: "Commander Keen 4: Secret of the Oracle"
+   link: http://store.steampowered.com/app/9180/
+   link-type: steam
+ 
  - name: The Second Reality Project Reloaded
+   link: http://www.fpi-productions.de/tsrp.html
+   link-type: website
+   end: 2008–09–07
+ 
  - name: VIP Mario (YouTube Run)
+   link: https://www.smwcentral.net/?p=section&a=details&id=9706
+   link-type: smwc
+   start: 2008-09-08
+   end: 2008-10-07
+   
  - name: VIP Mario 2 (YouTube Run)
  - name: VIP Mario 3 (YouTube Run)
  - name: Mario's Misadventure
@@ -452,7 +514,13 @@
  - name: Wandersong
  - name: Sonic Fishing
  - name: Sonic Pinball Party
+ 
  - name: Gato Roboto
+   link: https://store.steampowered.com/app/916730/Gato_Roboto/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKLHdL1BhYRVKzP04u-_cte
+   pl-src: raocow
+   start: 2020-08-27
 
 
 
