@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{%include header.html%}
 <h1 style="text-align: center;">raocow's Let's Plays (in Chronological Order)</h1>
 
 <table>
