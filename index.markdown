@@ -5,8 +5,9 @@ layout: default
 
 <h1 style="text-align: center;">raocow's Let's Plays (in Chronological Order)</h1>
 
-<table class="table table-hover">
+<table class="table table-sm table-hover">
 <colgroup>
+<col style="text-align:center;"/>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
@@ -17,6 +18,7 @@ layout: default
 <tr>
 	<th style="text-align:center;">Title</th>
 	<th style="text-align:center;">Link</th>
+	<th style="text-align:center;">Playlist</th>
 	<th style="text-align:center;">Start</th>
 	<th style="text-align:center;">End</th>
 </tr>
@@ -27,6 +29,7 @@ layout: default
 <tr>
 	<td style="text-align:center;">{{game.name}}</td>
 	<td style="text-align:center;"><a href="{{game.link}}">{{game.link-type}}</a></td>
+	<td style="text-align:center;"><a href="{{game.playlist}}">{{game.src}}</a></td>
 	<td style="text-align:center;">{{game.start}}</td>
 	<td style="text-align:center;">{{game.end}}</td>
 </tr>
