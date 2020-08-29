@@ -11,7 +11,6 @@ layout: default
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
-<col style="text-align:center;"/>
 </colgroup>
 
 <thead>
