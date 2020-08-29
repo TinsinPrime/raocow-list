@@ -27,7 +27,6 @@ twitter_username: tinsin
 github_username:  that-tinsin-guy
 
 # Build settings
-theme: jumbo-jekyll-theme
 plugins:
   - jekyll-feed
 
