@@ -29,7 +29,7 @@ layout: default
 <tr>
 	<td style="text-align:center;">{{game.name}}</td>
 	<td style="text-align:center;"><a href="{{game.link}}">{{game.link-type}}</a></td>
-	<td style="text-align:center;"><a href="{{game.playlist}}">{{game.src}}</a></td>
+	<td style="text-align:center;"><a href="{{game.pl}}">{{game.pl-src}}</a></td>
 	<td style="text-align:center;">{{game.start}}</td>
 	<td style="text-align:center;">{{game.end}}</td>
 </tr>
