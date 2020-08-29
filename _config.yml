@@ -27,7 +27,7 @@ twitter_username: tinsin
 github_username:  that-tinsin-guy
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
