@@ -5,7 +5,7 @@ layout: default
 
 <h1 style="text-align: center;">raocow's Let's Plays (in Chronological Order)</h1>
 
-<table>
+<table class="table table-hover">
 <colgroup>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
