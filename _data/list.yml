@@ -2,17 +2,18 @@
  - name: The Second Reality Project
    link: http://www.fpi-productions.de/tsrp.html
    link-type: website
-   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvxL0RWPEJeziGYOxKIz2up
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvxL0RWPEJeziGYOxKIz2up
+   pl-src: raolists
    
  - name: The Second Reality Project 2&colon; Zycloboo's Challenge
    link: http://www.fpi-productions.de/tsrp2.html
    link-type: website
-   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvuoU_w2uX2sM90D2o0yqFU
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvuoU_w2uX2sM90D2o0yqFU
 
  - name: Super Mario Infinity&colon; Mystery of the Magic Wand
    link: http://smwdb.me/db/2/27cbf2085ba8917ab2bba8af5cf27a9ee57282a5/index.htm
    link-type: smwdb
-   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtTf91zTDHWF5Lezs4TPbcS
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtTf91zTDHWF5Lezs4TPbcS
    
  - name: Super Challenge World
    link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
