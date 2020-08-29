@@ -1,0 +1,38 @@
+---
+ - name: The Second Reality Project
+   link: http://www.fpi-productions.de/tsrp.html
+   link-type: website
+   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvxL0RWPEJeziGYOxKIz2up
+   
+ - name: The Second Reality Project 2&colon; Zycloboo's Challenge
+   link: http://www.fpi-productions.de/tsrp2.html
+   link-type: website
+   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvuoU_w2uX2sM90D2o0yqFU
+
+ - name: Super Mario Infinity&colon; Mystery of the Magic Wand
+   link: http://smwdb.me/db/2/27cbf2085ba8917ab2bba8af5cf27a9ee57282a5/index.htm
+   link-type: smwdb
+   playlist: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtTf91zTDHWF5Lezs4TPbcS
+   
+ - name: Super Challenge World
+   link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
+   link-type: smwdb
+   
+ - name: Mario X World Deluxe
+   link: http://www.angelfire.com/pokemon2/pika22/hack/oldwork/oldwork.htm
+   link-type: website
+   
+ - name: Mario X World Second Edition Returns
+   link: http://www.angelfire.com/pokemon2/pika22/hack/oldwork/oldwork.htm
+   link-type: website
+
+ - name: Mario X World Bowser Strikes Back
+   link: http://www.angelfire.com/pokemon2/pika22/hack/oldwork/oldwork.htm
+   link-type: website
+
+ - name: Super Mario World Plus
+   link: http://smwdb.me/db/0/0afd7a7a6204dc8204eb1fffc349cbc65a40936f/
+   link-type: smwdb
+
+
+...
