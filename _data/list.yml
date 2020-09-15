@@ -133,6 +133,10 @@
    end: 2008-12-29
    
  - name: Mario's Misadventure
+   link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
+   link-type: smwdb
+   start: 
+   
  - name: Kouhai
  - name: Present Mario
  - name: Super Mario World The Reture (Youtube Run)
@@ -522,8 +526,18 @@
  - name: Katamari Damacy REROLL
  - name: Sonic Advance
  - name: Wandersong
+ - name: YUMP 2
+   link: http://smwdb.me/db/2/2dfa71c7c1534ec76cd5a510d9ee4f0179b6bb75/
+   link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLbDKHEWOoh5LDHjzsdYg_f
+   pl-src: raocow
+   
  - name: Sonic Fishing
+ 
+ 
  - name: Sonic Pinball Party
+ 
+ 
  - name: Gato Roboto
    link: https://store.steampowered.com/app/916730/Gato_Roboto/
    link-type: steam
@@ -531,10 +545,12 @@
    pl-src: raocow
    start: 2020-08-27
    end: 2020-09-04
+   
  - name: "Life Goes On: Done to Death"
    link: https://store.steampowered.com/app/250050/Life_Goes_On_Done_to_Death/
    link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJATTAimvmQzXr3Q39OdA15
+   pl-src: raocow
    start: 2020-09-05
    
-
 ...
