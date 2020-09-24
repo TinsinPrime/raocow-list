@@ -146,12 +146,21 @@
  - name: Kouhai 2
  - name: :P:P:P
  - name: The Mario
+ 
  - name: Marisa and Alice
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJqjc_7k4EPXGCxpSjlshUd
+   pl-src: raocow
+   
  - name: Luigi's World ?
  - name: World of Illusion
  - name: Mario Forever
  - name: Super Mario World Returns
  - name: An Untitled Story
+   
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIvBV79Ovds2TTqcbm3KlVK
+   pl-src: raocow
+ 
  - name: Super Mario World Returns 2
  - name: What the Hell Demo
  - name: Random Week 2009
@@ -191,12 +200,22 @@
  - name: One More Level
  - name: Megaman Rocks!
  - name: The Great Empire
+ 
  - name: CRAZ'D
+   
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI9Hy7HzV5Nrgwcl-4Q0P_u
+   pl-src: raocow
+ 
+ 
  - name: Something
  - name: VIP & Wall & ALASKA Mix 5
  - name: SMW FreedoMN
  - name: Swim, Ikachan!
  - name: Fantasy Explorer Nitroid
+   
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
+   pl-src: raocow
+ 
  - name: SMWCentral.net 24-Hour Ninth Door Contest
  - name: Mario Gives Up 2
  - name: Psycho Waluigi
@@ -218,11 +237,21 @@
  - name: Bowser's Last Stand
  - name: "MegaMan: A Day in the Limelight 2"
  - name: (Pandora's Box)
+ 
  - name: Copy Kitty
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLiXZdC8e3gjBskbeROTbXq
+   pl-src: raocow
+ 
  - name: Romancing Mario
  - name: Distorted Travesty 2
  - name: Super Talking Time Bros.
  - name: "Marisa and Alice 2: Trap Tower"
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
+   pl-src: raocow
+   
  - name: Yoshi's Island Level Design Contest
  - name: Drama Mistery
  - name: Notte Luminosa
@@ -230,13 +259,21 @@
  - name: VIP Mario 1 (HorikawaOtane Translation)
  - name: Street Fighter X Megaman
  - name: GMC Jam 1 / 2 / 3 / 4 / 7 / 8 / 9
+ 
  - name: Copy Kitty (Cirnya Levels)
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+ 
  - name: 3000 Leagues in Search of Bowser
  - name: ViViD
  - name: Kid Adventure
  - name: Bootleg Super Mario World
  - name: "A Super Mario Bros. X Thing: Prelude to the Stupid"
+ 
  - name: Copy Kitty (Kirby Comment levels)
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+ 
  - name: Talkhaus Make a Good Level Contest 2
  - name: Takkoman - Kouzatsu World
  - name: Apocalypse of Foroze
@@ -255,7 +292,12 @@
  - name: Golden Yoshi Returns
  - name: Golden Yoshi Returns Again
  - name: "Yoshi's Island: Forlorn Lands"
+ 
  - name: Copy Kitty Turbo
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+ 
+ 
  - name: Megaman Unlimited
  - name: A 2econd Mario Thing (Zombie ROM)
  - name: Yoshi's Island Level Contest 2014
@@ -266,6 +308,11 @@
  - name: (Xmas 2014)
  - name: Stellar Swing
  - name: 2
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL9ZLJGAOSwLFbtjtczOoXS
+   pl-src: raocow
+ 
+ 
  - name: Symphony of the Night
  - name: Vanilla Contest 2014
  - name: Parodius Series
@@ -279,11 +326,24 @@
  - name: Shovel Knight
  - name: SKY ISLAND
  - name: Soldexus
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLV4aIujtzuEmqkk0IaTCdy
+   pl-src: raocow
+   start: 2015-06-14
+   end: 2015-06-29
+ 
  - name: Kaizo Contest X
  - name: JET GUNNER
  - name: Talkhaus Make a Good Level X Contest 2
  - name: StarTropics
  - name: Big Fish Legend
+   
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKNuClBvRmQuLjZTXVJFfoW
+   pl-src: raocow
+   start: 2015-08-01
+   end: 2016-08-12
+ 
+ 
  - name: Zoda's Revenge
  - name: Wings of Vi
  - name: A Mini Falafel Adventure
@@ -310,7 +370,15 @@
  - name: Super Cat Planet
  - name: Kirby's Adventure
  - name: Super Mario Star Road
+ 
  - name: Mischief Makers
+   link: https://en.wikipedia.org/wiki/Mischief_Makers
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK7zyNNcWxKMcHFtnpIa_0g
+   pl-src: raocow
+   start: 2016-10-11
+   end: 2016-11-03
+ 
  - name: Talkhaus Make a Good Level 3
  - name: (Xmas 2016)
  - name: Hyper Princess Pitch
@@ -363,7 +431,13 @@
  - name: Rockman World 5
  - name: Hyper VI
  - name: "Megaman: The Wily Wars"
+ 
  - name: Full Bore
+   link: https://store.steampowered.com/app/264060/Full_Bore/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL0o_R-ofvtEHO_R-VsvzIo
+   pl-src: raocow
+ 
  - name: Rockman 7
  - name: Mega Man Game Gear
  - name: Power Battle
@@ -413,7 +487,11 @@
  - name: Mega Man ZX
  - name: Chocolate Island 6
  - name: Super Mario Bros. 3Mix
+ 
  - name: Copy Kitty FINAL
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+ 
  - name: Mega Man ZX Advent
  - name: Mega Man 9
  - name: stick mice in my head and then beat my head in with a hammer and let them back out
@@ -457,7 +535,12 @@
  - name: SegaSonic Cosmo Fighter Galaxy Patrol
  - name: SegaSonic Popcorn Shop
  - name: SegaSonic the Hedgehog
+ 
  - name: Donkey Kong Jr. Math
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIRV8aTsNbnMq0mQRKAmScZ
+   pl-src: raocow
+   
  - name: "Donkey Kong Country 2: Diddy's Kong Quest"
  - name: Sonic Spinball
  - name: Dr. Robotnik's Mean Bean Machine
@@ -472,6 +555,12 @@
  - name: Tails and the Music Maker
  - name: Sonic 3 & Knuckles
  - name: Donkey Kong Jr.
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIRV8aTsNbnMq0mQRKAmScZ
+   pl-src: raocow
+   start: 2019-09-22
+   end: 2019-09-22
+ 
  - name: Donkey Kong Country 3
  - name: Iconoclasts
  - name: Vanilla Level Design Contest 11
@@ -511,10 +600,18 @@
  - name: Super SIG World 38
  - name: Crash Bandicoot 3
  - name: New Super Marisa Land
+ 
  - name: Copy Kitty (Savant)
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+ 
  - name: Sonic Pocket Adventure
  - name: Nachos and Fried Oreos
  - name: Super Mario Bros.
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLHwwwcTQV0A3shEJcr0kRa
+   pl-src: raocow
+ 
  - name: Sonic Shuffle
  - name: So 2 Mice Walk Into a Bar...
  - name: Sonic Adventure 2
@@ -525,7 +622,13 @@
  - name: "Half Life 2: Episode 2"
  - name: Katamari Damacy REROLL
  - name: Sonic Advance
+   link: https://en.wikipedia.org/wiki/Sonic_Advance
+   link-type: wiki
+   
  - name: Wandersong
+   link: https://store.steampowered.com/app/530320/Wandersong/
+   link-type: steam
+ 
  - name: YUMP 2
    link: http://smwdb.me/db/2/2dfa71c7c1534ec76cd5a510d9ee4f0179b6bb75/
    link-type: smwdb
@@ -533,10 +636,12 @@
    pl-src: raocow
    
  - name: Sonic Fishing
- 
+   link: https://sonic.fandom.com/wiki/Sonic_Fishing
+   link-type: fandom
  
  - name: Sonic Pinball Party
- 
+   link: https://en.wikipedia.org/wiki/Sonic_Pinball_Party
+   link-type: wiki
  
  - name: Gato Roboto
    link: https://store.steampowered.com/app/916730/Gato_Roboto/
@@ -553,4 +658,14 @@
    pl-src: raocow
    start: 2020-09-05
    
+ - name: Sonic Racing Kart
+   link: https://sonic.fandom.com/wiki/Sonic_Racing_Kart
+   link-type: fandom
+   
+ - name: Sonic Battle
+   link: https://en.wikipedia.org/wiki/Sonic_Battle
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI9hWmOM1BX5GZVYC9Tz2In
+   pl-src: raocow
+   start: 2020-09-17
 ...
