@@ -606,16 +606,55 @@
    link-type: steam
  
  - name: Sonic Pocket Adventure
- - name: Nachos and Fried Oreos
- - name: Super Mario Bros.
+   
  
+ - name: Nachos and Fried Oreos
+   link: https://www.smwcentral.net/?p=viewthread&t=96179&page=1&pid=1488635#p1488635
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLfR3352ykf3McK8RERcBkMN9A5lqt0qsD
+   pl-src: skyluigi2
+   start: 2020-03-29
+   end: 2020-04-03
+   
+ - name: Super Mario Bros.
+   link: https://en.wikipedia.org/wiki/Super_Mario_Bros.
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLHwwwcTQV0A3shEJcr0kRa
    pl-src: raocow
+   start: 2020-04-04
+   end: 2020-04-04
  
  - name: Sonic Shuffle
+   link: https://en.wikipedia.org/wiki/Sonic_Shuffle
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLJIg3BnCRdi4-29ROIvsIB
+   pl-src: raocow
+   start: 2020-04-04
+   end: 2020-04-09
+ 
+ 
  - name: So 2 Mice Walk Into a Bar...
+   link: https://www.smwcentral.net/?p=section&a=details&id=21950
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLqYCO11emwBdLQtSLzXI7qfAHLsWYEOzz
+   pl-src: alice
+   start: 2020-04-05
+   end: 2020-04-13
+ 
  - name: Sonic Adventure 2
+   link: https://en.wikipedia.org/wiki/Sonic_Adventure_2
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIphQ_yOCYmvsoIiYtv8prQ
+   pl-src: raocow
+   start: 2020-04-10
+   end: 2020-07-29
+ 
  - name: Vanilla Level Design Contest X
+ 
+   pl: https://www.youtube.com/playlist?list=PLfR3352ykf3N2YYOjQ-1xwe3i1r8Uk6fX
+   pl-src: skyluigi2
+   start: 2020-04-14
+   end: 2020-07-03
  
  - name: Waku Waku 7
    link: https://en.wikipedia.org/wiki/Waku_Waku_7
