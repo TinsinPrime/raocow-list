@@ -616,32 +616,101 @@
  - name: So 2 Mice Walk Into a Bar...
  - name: Sonic Adventure 2
  - name: Vanilla Level Design Contest X
+ 
  - name: Waku Waku 7
+   link: https://en.wikipedia.org/wiki/Waku_Waku_7
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLqYCO11emwBeTh4yW_wqHw3d4hdNTsc29
+   pl-src: alice
+   start: 2020-04-24
+   end: 2020-04-30
+   
  - name: Half Life 2
+   link: https://store.steampowered.com/app/220/HalfLife_2/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
+   pl-src: nast
+   start: 2020-05-01
+   end: 2020-06-06
+ 
  - name: Zombie VIP 6
- - name: "Half Life 2: Episode 2"
+   link: https://ux.getuploader.com/SMW_MIX6
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLfR3352ykf3N7qP1ROX2-ffLRf-ypZSO2
+   pl-src: skyluigi2
+   start: 2020-05-02
+   end: 2020-07-26
+ 
+ - name: "Half Life 2: Lost Coast"
+   link: https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
+   pl-src: nast
+   start: 2020-06-07
+   end: 2020-06-07
+ 
+ - name: "Half Life 2: Episode One"
+   link: https://store.steampowered.com/app/380/HalfLife_2_Episode_One/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
+   pl-src: nast
+   start: 2020-06-08
+   end: 2020-06-16
+ 
+ - name: "Half Life 2: Episode Two"
+   link: https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
+   pl-src: nast
+   start: 2020-06-20
+   end: 2020-07-02
+ 
  - name: Katamari Damacy REROLL
+   link: https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKilDI29x6TOHXmXgjJZhZl
+   pl-src: raocow
+   start: 2020-07-03
+   end: 2020-07-23
+ 
  - name: Sonic Advance
    link: https://en.wikipedia.org/wiki/Sonic_Advance
    link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLwwlnORmvQSqPUp-Nm6tBF
+   pl-src: raocow
+   start: 2020-07-08
+   end: 2020-07-28
    
  - name: Wandersong
    link: https://store.steampowered.com/app/530320/Wandersong/
    link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLeX41mvq6UZcApqAKb1vxs
+   pl-src: raocow
+   start: 2020-07-24
+   end: 2020-08-26
  
  - name: YUMP 2
    link: http://smwdb.me/db/2/2dfa71c7c1534ec76cd5a510d9ee4f0179b6bb75/
    link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLbDKHEWOoh5LDHjzsdYg_f
    pl-src: raocow
+   start: 2020-07-27
    
  - name: Sonic Fishing
    link: https://sonic.fandom.com/wiki/Sonic_Fishing
    link-type: fandom
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJhpgFy__hULhp6F_elBoVK
+   pl-src: raocow
+   start: 2020-08-28
+   end: 2020-08-28
  
  - name: Sonic Pinball Party
    link: https://en.wikipedia.org/wiki/Sonic_Pinball_Party
    link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKzSVmIy3x2IPkgD6aHfF05
+   pl-src: raocow
+   start: 2020-08-25
+   end: 2020-08-31
  
  - name: Gato Roboto
    link: https://store.steampowered.com/app/916730/Gato_Roboto/
@@ -661,6 +730,10 @@
  - name: Sonic Racing Kart
    link: https://sonic.fandom.com/wiki/Sonic_Racing_Kart
    link-type: fandom
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJhpgFy__hULhp6F_elBoVK
+   pl-src: raocow
+   start: 2020-09-16
+   end: 2020-09-16
    
  - name: Sonic Battle
    link: https://en.wikipedia.org/wiki/Sonic_Battle
