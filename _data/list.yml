@@ -601,11 +601,22 @@
  - name: Crash Bandicoot 3
  - name: New Super Marisa Land
  
+ 
  - name: Copy Kitty (Savant)
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
    link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIHPXACv8MEdCM4CIchD2Vn
+   pl-src: raocow
+   start: 2020-03-20
+   end: 2020-04-22
  
  - name: Sonic Pocket Adventure
+   link: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Pocket_Adventure
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIzzT7YCnX2WIUpzF4OE66_
+   pl-src: raocow
+   start: 2020-03-24
+   end: 2020-04-04
    
  
  - name: Nachos and Fried Oreos
@@ -766,6 +777,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJATTAimvmQzXr3Q39OdA15
    pl-src: raocow
    start: 2020-09-05
+   end: 2020-09-26
    
  - name: Sonic Racing Kart
    link: https://sonic.fandom.com/wiki/Sonic_Racing_Kart
