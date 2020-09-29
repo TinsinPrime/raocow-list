@@ -801,6 +801,11 @@
    pl-src: raocow
    start: 2020-09-26
  
- 
+ - name: La-Mulana 2
+   link: https://store.steampowered.com/app/835430/LaMulana_2/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIoKfdVVpwMz3r5eBJQqF4I
+   pl-src: raocow
+   start: 2020-09-27
  
 ...
