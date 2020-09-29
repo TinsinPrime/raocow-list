@@ -30,8 +30,12 @@ layout: default
 	<td style="text-align:center;">{{game.name}}</td>
 	<td style="text-align:center;"><a href="{{game.link}}">{{game.link-type}}</a></td>
 	<td style="text-align:center;"><a href="{{game.pl}}">{{game.pl-src}}</a></td>
+	{% if game.start == game.end %}
+	<td style="text-align:center;" colspan=2>{{game.start}}</td>	
+	{% else %}
 	<td style="text-align:center;">{{game.start}}</td>
 	<td style="text-align:center;">{{game.end}}</td>
+	{% endif %}
 </tr>
 <tr>
 {% endfor %}
