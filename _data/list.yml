@@ -135,7 +135,6 @@
  - name: Mario's Misadventure
    link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
    link-type: smwdb
-   start: 
    
  - name: Kouhai
  - name: Present Mario
@@ -182,8 +181,19 @@
  - name: EVW
  - name: Hacks 101
  - name: A Super Mario Thing
+   link: 
+ 
  - name: SMWCentral Vanilla Contest '10
+ 
  - name: Kirby's Dream Land 3
+   link: https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_3
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIb5My4BPP2NQT9TrgOxYRU
+   pl-src: raocow
+   start: 2010-05-01
+   end: 2010-05-26
+ 
+ 
  - name: VVVVVV
  - name: Mega Man X - Intermission
  - name: Mega Man X2 - Intermission
@@ -300,6 +310,9 @@
  
  - name: Megaman Unlimited
  - name: A 2econd Mario Thing (Zombie ROM)
+   link: http://smwdb.me/db/a/ae3a092621c5a293111c20f79b0f400261f03ae3/
+   link-type: smwdb
+ 
  - name: Yoshi's Island Level Contest 2014
  - name: A Second Mario Bros X Thing
  - name: Valdis Story
@@ -307,11 +320,14 @@
  - name: Something Else
  - name: (Xmas 2014)
  - name: Stellar Swing
- - name: 2
  
+ - name: 2
+   link: http://www.hubolhubolhubol.com/index.php?id=2
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL9ZLJGAOSwLFbtjtczOoXS
    pl-src: raocow
- 
+   start: 2014-12-21
+   end: 2015-01-02
  
  - name: Symphony of the Night
  - name: Vanilla Contest 2014
@@ -368,8 +384,20 @@
  - name: Megaman sqrt(-1)
  - name: SMWCX
  - name: Super Cat Planet
+ 
  - name: Kirby's Adventure
+   link: https://en.wikipedia.org/wiki/Kirby%27s_Adventure
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIb5My4BPP2NQT9TrgOxYRU
+   pl-src: raocow
+   start: 2016-09-14
+   end: 2016-09-26
+   
+   
  - name: Super Mario Star Road
+   link: https://hacks.sm64hacks.com/hack/2
+   link-type: website
+   
  
  - name: Mischief Makers
    link: https://en.wikipedia.org/wiki/Mischief_Makers
@@ -464,7 +492,12 @@
  - name: VIP Mario 4 2018
  - name: Super Mario World (Reallifecore)
  - name: Rockman & Forte GBA
+ 
  - name: JIGGLY ZONE
+   link: http://www.hubolhubolhubol.com/index.php?id=jiggly
+   link-type: website
+   
+   
  - name: Rockman.exe WS
  - name: Hollow Knight
  - name: Mega Man Network Transmission
@@ -537,7 +570,8 @@
  - name: SegaSonic the Hedgehog
  
  - name: Donkey Kong Jr. Math
- 
+   link: https://en.wikipedia.org/wiki/Donkey_Kong_Jr._Math
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIRV8aTsNbnMq0mQRKAmScZ
    pl-src: raocow
    
@@ -554,8 +588,10 @@
  - name: Sonic Spinball (8bit)
  - name: Tails and the Music Maker
  - name: Sonic 3 & Knuckles
- - name: Donkey Kong Jr.
  
+ - name: Donkey Kong Jr.
+   link: https://en.wikipedia.org/wiki/Donkey_Kong_Jr.
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIRV8aTsNbnMq0mQRKAmScZ
    pl-src: raocow
    start: 2019-09-22
@@ -578,7 +614,13 @@
  - name: 24th Annual December Event! (Advent 2019)
  - name: Tails Adventure
  - name: Super "Mario" World "2"
- - name: Kirby 64
+ - name: "Kirby 64: The Crystal Shards"
+   link: https://en.wikipedia.org/wiki/Kirby_64:_The_Crystal_Shards
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQ2VVZgMJP4ErlP27DJI53
+   pl-src: raocow
+   
+ 
  - name: Sonic Labyrinth
  - name: Sonic Mountain Quest
  - name: Sonic X-Treme (Prototype)
