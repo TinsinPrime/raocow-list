@@ -136,34 +136,183 @@
    link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
    link-type: smwdb
    
+   start: 2008-11-29
+   end: 2008-12-04
+   
  - name: Kouhai
+   link: http://smwdb.me/db/a/ae1463aebc4bb4a6070bf9a28f946baefe808774/
+   link-type: smwdb
+   
+   start: 2008-12-05
+   end: 2008-12-14
+ 
  - name: Present Mario
+   link: http://smwdb.me/db/d/d68ca8bd9136aea5cfbbf3c96c37fd2f853910c0/
+   link-type: smwdb
+   
+   start: 2008-12-14
+   end: 2008-12-22
+ 
  - name: Super Mario World The Reture (Youtube Run)
+   link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
+   link-type: smwdb
+   
+   start: 2008-12-22
+   end: 2008-12-23
+ 
  - name: VIP Mario 4 (YouTube Run)
+   link: https://www.smwcentral.net/?p=section&a=details&id=9799
+   link-type: smwc
+   
+   start: 2008-12-30
+   end: 2009-03-01
+   
  - name: Rise to the Challenge
+   link: http://smwdb.me/db/4/42036589fa6e0dfdac65a998c5e3cc2cfad88228/
+   link-type: smwdb
+   
+   start: 2009-02-27
+   end: 2009-03-26
+ 
  - name: Super Marisa World
+   link: https://touhou.fandom.com/wiki/Super_Marisa_World
+   link-type: fandom
+   
+   start: 2009-03-27
+   end: 2009-05-29
+ 
  - name: Kouhai 2
+   link: http://smwdb.me/db/0/04bcc52f485f4d343ce7c6d5d7afa074caa98ed1/
+   link-type: smwdb
+   
+   start: 2009-04-25
+   end: 2009-05-08
+ 
  - name: :P:P:P
+   link: http://smwdb.me/db/f/fe81b7c380fb9f8435364d491d2b94242f7e6a89/
+   link-type: smwdb
+   
+   start: 2009-05-09
+   end: 2009-05-15
+ 
  - name: The Mario
- 
+   link: http://smwdb.me/db/4/43f23c3217750eda1623067aa763e35278401e79/
+   link-type: smwdb
+   
+   start: 2009-05-15
+   end: 2009-05-28
+   
+   
  - name: Marisa and Alice
- 
+   link: https://en.touhouwiki.net/wiki/Marisa_and_Alice
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJqjc_7k4EPXGCxpSjlshUd
    pl-src: raocow
+   start: 2009-05-18
+   end: 2009-08-16
    
- - name: Luigi's World ?
+ - name: Luigi's World
+   link: rpgcreative.forumpro.fr/login?redirect=%2Ft100405-topic
+   link-type: website?
+   
+   start: 2009-05-29
+   end: 2009-06-06
+ 
  - name: World of Illusion
+   link: smwdb.me/db/e/eb9391358c16094cba06b3bd0839bef8875eb5c6/
+   link-type: smwdb
+ 
  - name: Mario Forever
- - name: Super Mario World Returns
- - name: An Untitled Story
+   link: softendo.com/mario-forever-games-download/mario-forever-fangame-v7-01-beta-2017
+   link-type: website
    
+ - name: Super Mario World Returns
+   link: http://smwdb.me/db/c/c9c6aadaefcefa6b4fe056c120cd8a25e3f0ef10/
+   link-type: smwdb
+ 
+ - name: An Untitled Story
+   link: www.mattmakesgames.com
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIvBV79Ovds2TTqcbm3KlVK
    pl-src: raocow
  
  - name: Super Mario World Returns 2
+   link: smwdb.me/db/1/1ae61243f410cbc5df60c238dd9b61abf1f252fa/
+   link-type: smwdb
+ 
  - name: What the Hell Demo
- - name: Random Week 2009
+   link: http://smwdb.me/db/a/ae72406820b59951d19dc05566dc51da10573516/
+   link-type: smwdb
+   
+ - name: Dancing Onigiri
+   link: http://max.onmitsu.jp/danoni.html
+   link-type: website
+   pl: https://www.youtube.com/watch?v=I1a87tioPWA
+   pl-src: video
+   start: 2009-08-15
+   end: 2009-08-15
+ 
+ - name: Jump on Mushrooms
+   link: http://hempuli.com/mush/
+   link-type: website
+   pl: https://www.youtube.com/watch?v=6093I7Hmv-k
+   pl-src: video
+   start: 2009-08-16
+   end: 2009-08-16
+ 
+ - name: "SYNSO: Squid Harder"
+   link: https://www.moddb.com/games/squid-yes-not-so-octopus/downloads
+   link-type: website
+   pl: https://www.youtube.com/watch?v=EKGgi51dnLg
+   pl-src: video
+   start: 2009-08-17
+   end: 2009-08-17
+   
+ - name: ":thegame:"
+   link: https://www.newgrounds.com/portal/view/467574
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDv4hiNtFsbMxK1i2pmtwq8m
+   pl-src: raolists
+   start: 2009-08-18
+   end: 2009-08-18
+ 
+ - name: Max Damage
+   link: http://www.onemorelevel.com/game/max_damage
+   link-type: website
+   pl: https://www.youtube.com/watch?v=tYIK5BwTsz0
+   pl-src: video
+   start: 2009-08-19
+   end: 2009-08-19
+   
+ - name: Spelunky Classic
+   link: https://spelunkyworld.com/original.html
+   link-type: website
+   pl: https://www.youtube.com/watch?v=CpUfXp0gEQo
+   pl-src: video
+   start: 2009-08-20
+   end: 2009-08-20
+   
+ - name: GROW
+   link: https://play.google.com/store/apps/details?id=air.com.eyezmaze.GROWPACKvol1
+   link-type: google play
+   pl: https://www.youtube.com/watch?v=EEY8oAuXiqs
+   pl-src: video
+   start: 2009-08-21
+   end: 2009-08-21
+ 
+ - name: MUGEN
+   link: https://en.wikipedia.org/wiki/Mugen_(engine)
+   link-type: wiki
+   pl: https://www.youtube.com/watch?v=z1V9HEshZBA
+   pl-src: video
+   start: 2009-08-22
+   end: 2009-08-22
+ 
  - name: Super Mario World Returns EX
+   
+ 
+ 
+ 
  - name: Blobs Adventure 2
  - name: Super Challenge World (YouTube Run)
  - name: Super Metroid Legacy
@@ -267,6 +416,13 @@
  - name: Notte Luminosa
  - name: Tower of Biased 2
  - name: VIP Mario 1 (HorikawaOtane Translation)
+   link: http://horikawaotane.com/vip1
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLEkssxTfxI1kZAvpHL5YyJ
+   pl-src: raocow
+   start: 2012-12-29
+   end: 2013-01-22
+   
  - name: Street Fighter X Megaman
  - name: GMC Jam 1 / 2 / 3 / 4 / 7 / 8 / 9
  
@@ -370,7 +526,16 @@
  - name: (Xmas 2015)
  - name: Guacamelee! Super Turbo Championship Edition
  - name: Shattered Lands
+ 
  - name: VIP Mario 2 (HorikawaOtane Translation)
+   link: http://horikawaotane.com/vip2
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJPzNeCGMZ8suAp2qEJYCa9
+   pl-src: raocow
+   start: 2016-01-20
+   end: 2016-02-22
+ 
+ 
  - name: Distorted Travesty 3
  - name: JUMP
  - name: HACK 3
