@@ -310,6 +310,7 @@
  
  - name: Super Mario World Returns EX
    
+   
  
  
  
@@ -379,8 +380,17 @@
  - name: Mario Gives Up 2
  - name: Psycho Waluigi
  - name: Voxatron
+ 
  - name: Ascetic Super Mario World
+ 
  - name: S. Mario
+   link: http://smwdb.me/db/0/022abb83eaf12de205d28389665d33ffdf636338/
+   link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDImItM0Jh6SqzZUfUDLBw2P
+   pl-src: raocow
+   start: 2012-01-10
+   end: 2012-02-02
+ 
  - name: Karoshi Saga
  - name: GMC Jam 5
  - name: MARIO ADVENTURE
@@ -407,6 +417,7 @@
  - name: Distorted Travesty 2
  - name: Super Talking Time Bros.
  - name: "Marisa and Alice 2: Trap Tower"
+ 
  
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
    pl-src: raocow
@@ -717,7 +728,15 @@
  - name: Sonic the Hedgehog
  - name: Sonic Eraser
  - name: Sonic the Hedgehog 8bit
+ 
  - name: "Mario and Luigi: Superstar Saga"
+   link: https://en.wikipedia.org/wiki/Mario_%26_Luigi:_Superstar_Saga
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJmX3oNnNiRV-Cux4u7_-ti
+   pl-src: raocow
+   start: 2019-06-07
+   end: 2019-07-14
+ 
  - name: Waku Waku Sonic Patrol Car
  - name: Sonic the Hedgehog (Tiger Electronics)
  - name: Sonic the Hedgehog 2
@@ -1000,6 +1019,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI9hWmOM1BX5GZVYC9Tz2In
    pl-src: raocow
    start: 2020-09-17
+   end: 2020-10-07
    
  - name: Donkey Kong Land III
    link: https://en.wikipedia.org/wiki/Donkey_Kong_Land_III
@@ -1007,6 +1027,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLUyeXaZWmOJ15AcpgTtYGy
    pl-src: raocow
    start: 2020-09-26
+   end: 2020-10-08
  
  - name: La-Mulana 2
    link: https://store.steampowered.com/app/835430/LaMulana_2/
@@ -1014,5 +1035,15 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIoKfdVVpwMz3r5eBJQqF4I
    pl-src: raocow
    start: 2020-09-27
+ 
+ - name: Sonic Heroes
+   link: https://en.wikipedia.org/wiki/Sonic_Heroes
+   link-type: wiki
+   start: 2020-10-08
+ 
+ - name: Yoshi's Archipelago
+   link: https://www.supermariobrosx.org/forums/viewtopic.php?t=20762
+   link-type: website
+   start: 2020-10-09
  
 ...
