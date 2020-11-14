@@ -2,6 +2,7 @@
 layout: default
 ---
 {%include header.html%}
+<title>The raocow List</title>
 
 <h1 style="text-align: center;">raocow's Let's Plays (in Chronological Order)</h1>
 
