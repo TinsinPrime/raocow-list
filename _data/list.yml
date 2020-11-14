@@ -117,81 +117,96 @@
  - name: VIP Mario (YouTube Run)
    link: https://www.smwcentral.net/?p=section&a=details&id=9706
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLFC4CEB02276B5299
+   pl-src: raocow
    start: 2008-09-08
    end: 2008-10-07
    
  - name: VIP Mario 2 (YouTube Run)
    link: https://www.smwcentral.net/?p=section&a=details&id=9821
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PL0D0280F96FE9F1FE
+   pl-src: raocow
    start: 2008-10-08
    end: 2008-11-22
    
  - name: VIP Mario 3 (YouTube Run)
    link: https://www.smwcentral.net/?p=section&a=details&id=10027
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PL96E3A817DDADBA2C
+   pl-src: raocow
    start: 2008-11-23
    end: 2008-12-29
    
  - name: Mario's Misadventure
    link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDslb2IsDh_v-zkdT4GMctkz
+   pl-src: raolists
    start: 2008-11-29
    end: 2008-12-04
    
  - name: Kouhai
    link: http://smwdb.me/db/a/ae1463aebc4bb4a6070bf9a28f946baefe808774/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLD0A52C67C2BAE321
+   pl-src: raocow
    start: 2008-12-05
    end: 2008-12-14
  
  - name: Present Mario
    link: http://smwdb.me/db/d/d68ca8bd9136aea5cfbbf3c96c37fd2f853910c0/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLD0A52C67C2BAE321
+   pl-src: raocow
    start: 2008-12-14
    end: 2008-12-22
  
  - name: Super Mario World The Reture (Youtube Run)
    link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvBsyguQyDElDsz-RJPR392
+   pl-src: raolists
    start: 2008-12-22
    end: 2008-12-23
  
  - name: VIP Mario 4 (YouTube Run)
    link: https://www.smwcentral.net/?p=section&a=details&id=9799
    link-type: smwc
-   
+   pl: https://www.youtube.com/playlist?list=PL0EA25AC172AC03E8
+   pl-src: raocow
    start: 2008-12-30
    end: 2009-03-01
    
  - name: Rise to the Challenge
    link: http://smwdb.me/db/4/42036589fa6e0dfdac65a998c5e3cc2cfad88228/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PL197EE97FAF0C7C35
+   pl-src: raocow
    start: 2009-02-27
    end: 2009-03-26
  
  - name: Super Marisa World
    link: https://touhou.fandom.com/wiki/Super_Marisa_World
    link-type: fandom
-   
+   pl: https://www.youtube.com/playlist?list=PL2962FC8923A8CC2F
+   pl-src: raocow
    start: 2009-03-27
    end: 2009-05-29
  
  - name: Kouhai 2
    link: http://smwdb.me/db/0/04bcc52f485f4d343ce7c6d5d7afa074caa98ed1/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLD0A52C67C2BAE321
+   pl-src: raocow
    start: 2009-04-25
    end: 2009-05-08
  
  - name: :P:P:P
    link: http://smwdb.me/db/f/fe81b7c380fb9f8435364d491d2b94242f7e6a89/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuhL6BgFfxCLpVj76OnOETB
+   pl-src: raolists
    start: 2009-05-09
    end: 2009-05-15
  
@@ -212,9 +227,10 @@
    end: 2009-08-16
    
  - name: Luigi's World
-   link: rpgcreative.forumpro.fr/login?redirect=%2Ft100405-topic
+   link: http://rpgcreative.forumpro.fr/login?redirect=%2Ft100405-topic
    link-type: website?
-   
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJFlFNSn0HtVPoGoghCHsXm
+   pl-src: raocow
    start: 2009-05-29
    end: 2009-06-06
  
@@ -309,18 +325,37 @@
    end: 2009-08-22
  
  - name: Super Mario World Returns EX
-   
-   
- 
- 
+   link: http://smwdb.me/db/1/17b67edc7cf3bae075f195e1910314b5dea7733f/
+   link-type: smwdb
  
  - name: Blobs Adventure 2
+   link: https://www.newgrounds.com/portal/view/632203
+   link-type: website
+ 
  - name: Super Challenge World (YouTube Run)
+   link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
+   link-type: smwdb
+ 
  - name: Super Metroid Legacy
+   link: http://metroidconstruction.com/hack.php?id=25
+   link-type: website
+ 
  - name: Super Mario Omega
+   link: https://www.smwcentral.net/?p=section&a=details&id=5252
+   link-type: smwc
+ 
  - name: SMWCentral Chocolate Level Design Contest
+   link: https://www.smwcentral.net/?p=viewthread&t=22769
+   link-type: smwc
+   
  - name: Tottemo YEAHHHH!!
+   link: http://smwdb.me/db/e/e5c403b6538f834c72a0137ad28326ba087d05f7/
+   link-type: smwdb
+ 
+ 
  - name: Mushroom Kingdom Meltdown
+   
+ 
  - name: "Runman: Race Against the World"
  - name: Mushroom Kingdom Meltdown 2
  - name: Nezumi Man
@@ -362,24 +397,44 @@
  - name: The Great Empire
  
  - name: CRAZ'D
-   
+   link: http://www.hubolhubolhubol.com/index.php?id=crazd
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI9Hy7HzV5Nrgwcl-4Q0P_u
    pl-src: raocow
- 
+   start: 2011-06-01
+   end: 2011-06-28
  
  - name: Something
  - name: VIP & Wall & ALASKA Mix 5
  - name: SMW FreedoMN
+ 
  - name: Swim, Ikachan!
- - name: Fantasy Explorer Nitroid
-   
+   link: https://www.cavestory.org/pixels-works/ikachan.php
+   link-type: website
+ 
+ - name: Fantasy Explorer Nitroid!
+   link: https://en.touhouwiki.net/wiki/Gensou_Tansaku_Nitroid!
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
    pl-src: raocow
+   start: 2011-09-05
+   end: 2012-03-19
  
  - name: SMWCentral.net 24-Hour Ninth Door Contest
+   link: https://www.smwcentral.net/?p=viewthread&t=50349
+   link-type: smwc
+ 
  - name: Mario Gives Up 2
+   link: https://www.smwcentral.net/?p=section&a=details&id=5398
+   link-type: smwc
+ 
  - name: Psycho Waluigi
+   link: https://mfgg.net/index.php?act=resdb&param=02&c=2&id=25698
+   link-type: website
+ 
  - name: Voxatron
+   link: https://www.lexaloffle.com/voxatron.php
+   link-type: website
  
  - name: Ascetic Super Mario World
  
@@ -392,10 +447,22 @@
    end: 2012-02-02
  
  - name: Karoshi Saga
+ 
+ 
  - name: GMC Jam 5
+ 
  - name: MARIO ADVENTURE
+   link: https://www.romhacking.net/hacks/70
+   link-type: website
+ 
  - name: New! SMW2 Yoshi's Island
+   link: https://www.smwcentral.net/?p=section&a=details&id=4646
+   link-type: smwc
+
  - name: Distorted Travesty
+   link: http://distortedtravesty.blogspot.com/p/distorted-travesty-1.html
+   link-type: website
+ 
  - name: 5th Annual SMWCentral.net Vanilla Level Design Contest
  - name: Talkhaus Make a Good Level Contest
  - name: GMC Jam 6
@@ -501,7 +568,10 @@
  - name: Parodius Series
  - name: Super Mario Japan Truth Story
  - name: (Let's Cortex)
+ 
  - name: Super Meat Boy
+   
+ 
  - name: Toadette Strikes
  - name: SMW Remix
  - name: Vanilla Level Design Contest 8
@@ -546,8 +616,13 @@
    start: 2016-01-20
    end: 2016-02-22
  
- 
  - name: Distorted Travesty 3
+ 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2Q4yYjUmS70mrgS7YSIyL
+   pl-src: raocow
+   start: 2016-01-26
+   end: 2019-07-22
+ 
  - name: JUMP
  - name: HACK 3
  - name: Call of Cthulhu
@@ -559,7 +634,14 @@
  - name: Wario Land 4
  - name: Megaman sqrt(-1)
  - name: SMWCX
+ 
  - name: Super Cat Planet
+   link: https://www.indiedb.com/games/super-cat-planet/downloads/super-cat-planet-v1-latest
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLB2RtOKdz7NsCjghCfcHQA
+   pl-src: raocow
+   start: 2016-09-04
+   end: 2016-09-13
  
  - name: Kirby's Adventure
    link: https://en.wikipedia.org/wiki/Kirby%27s_Adventure
@@ -569,11 +651,9 @@
    start: 2016-09-14
    end: 2016-09-26
    
-   
  - name: Super Mario Star Road
    link: https://hacks.sm64hacks.com/hack/2
    link-type: website
-   
  
  - name: Mischief Makers
    link: https://en.wikipedia.org/wiki/Mischief_Makers
@@ -593,7 +673,15 @@
  - name: Dynamite Headdy
  - name: Psychonauts
  - name: Off Camera
- - name: ASPE
+ 
+ - name: "Super ASPE Mario: All Stars Performance Edition"
+   link: http://smwdb.me/db/d/dc42b635c2003b52fe70ea4e77f74ce247cb6e74/
+   link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLHwzghudzWrywaeLX7_yFA
+   pl-src: raocow
+   start: 2017-03-08
+   end: 2017-04-04
+ 
  - name: MegaMari
  - name: test.smc
  - name: Escape Goat 2
@@ -641,6 +729,8 @@
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL0o_R-ofvtEHO_R-VsvzIo
    pl-src: raocow
+   start: 2018-01-26
+   end: 2018-03-12
  
  - name: Rockman 7
  - name: Mega Man Game Gear
@@ -652,7 +742,15 @@
  - name: Wario Land II
  - name: Super Metroid B2-TW
  - name: Cuphead
+ 
  - name: Rabi-Ribi
+   link: https://store.steampowered.com/app/400910/RabiRibi/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIDxgQyYIHFagdjatFlrhqm
+   pl-src: raocow
+   start: 2018-04-19
+   end: 2018-06-14
+ 
  - name: Rockman and Forte
  - name: Challenger from the Future
  - name: Mega Man Xtreme
@@ -798,35 +896,96 @@
  - name: 24th Annual December Event! (Advent 2019)
  - name: Tails Adventure
  - name: Super "Mario" World "2"
+ 
+ 
  - name: "Kirby 64: The Crystal Shards"
    link: https://en.wikipedia.org/wiki/Kirby_64:_The_Crystal_Shards
    link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQ2VVZgMJP4ErlP27DJI53
    pl-src: raocow
-   
  
  - name: Sonic Labyrinth
- - name: Sonic Mountain Quest
- - name: Sonic X-Treme (Prototype)
- - name: Sonic the Fighters
- - name: Sonic the Screen Saver
- - name: Sonic's Schoolhouse
- - name: Sonic 3D Blast
- - name: A Hat in Time
- - name: Peach's Memory
- - name: Sonic Blast
- - name: Sonic and Knuckles Collection
- - name: Sonic Jam (Saturn)
- - name: Sonic R
- - name: slurdgery
- - name: Sonic 3D Blast (Tiger Electronics)
- - name: Sonic Jam (Game.COM)
- - name: Donkey Kong Land
- - name: Sonic Adventure
- - name: Super SIG World 38
- - name: Crash Bandicoot 3
- - name: New Super Marisa Land
+   link: https://en.wikipedia.org/wiki/Sonic_Labyrinth
+   link-type: wiki
  
+ - name: Sonic Mountain Quest
+ 
+ - name: Sonic X-Treme (Prototype)
+   link: https://en.wikipedia.org/wiki/Sonic_X-treme
+   link-type: wiki
+   
+ - name: Sonic the Fighters
+   link: https://en.wikipedia.org/wiki/Sonic_the_Fighters
+   link-type: wiki
+ 
+ - name: Sonic the Screen Saver
+ 
+ - name: Sonic's Schoolhouse
+   link: https://en.wikipedia.org/wiki/Educational_games_in_the_Sonic_series#Sonic's_Schoolhouse
+   link-type: wiki
+ 
+ - name: Sonic 3D Blast
+   link: https://en.wikipedia.org/wiki/Sonic_3D_Blast
+   link-type: wiki
+ 
+ - name: A Hat in Time
+   link: https://store.steampowered.com/app/253230/A_Hat_in_Time/
+   link-type: steam
+ 
+ - name: Peach's Memory
+   link: https://drive.google.com/file/d/1eNGOsvbq7w2sKL0_BM8uAyin-DGLQVDT/view
+   link-type: website
+ 
+ - name: Sonic Blast
+   link: https://en.wikipedia.org/wiki/Sonic_Blast
+   link-type: wiki
+ 
+ - name: Sonic and Knuckles Collection
+   link: https://en.wikipedia.org/wiki/List_of_Sonic_the_Hedgehog_video_games#Compilations
+   link-type: wiki
+ 
+ - name: Sonic Jam (Saturn)
+   link: https://en.wikipedia.org/wiki/Sonic_Jam
+   link-type: wiki
+ 
+ - name: Sonic R
+   link: https://en.wikipedia.org/wiki/Sonic_R
+   link-type: wiki
+ 
+ - name: slurdgery
+   link: https://www.smwcentral.net/?p=section&a=details&id=21787
+   link-type: swmc
+ 
+ 
+ - name: Sonic 3D Blast (Tiger Electronics)
+   link: https://en.wikipedia.org/wiki/Tiger_Electronics
+   link-type: wiki
+ 
+ - name: Sonic Jam (Game.COM)
+   link: https://en.wikipedia.org/wiki/Sonic_Jam
+   link-type: wiki
+   
+ - name: Donkey Kong Land
+   link: https://en.wikipedia.org/wiki/Donkey_Kong_Land
+   link-type: wiki
+ 
+ - name: Sonic Adventure
+   link: https://en.wikipedia.org/wiki/Sonic_Adventure
+   link-type: wiki
+ 
+ - name: Super SIG World 38
+   link: http://smwdb.me/db/c/cf66d037b5ecc1c860e97e01cc5a5e813db80954/
+   link-type: smwdb
+ 
+ - name: Crash Bandicoot 3
+   link: https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped
+   link-type: wiki
+ 
+ 
+ - name: New Super Marisa Land
+   link: www.tasofro.net/6kinoko/index.html
+   link-type: website
+   
  
  - name: Copy Kitty (Savant)
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
@@ -1039,11 +1198,23 @@
  - name: Sonic Heroes
    link: https://en.wikipedia.org/wiki/Sonic_Heroes
    link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQBe-gxZ5eGEeHtBK5W9rt
+   pl-src: raocow
    start: 2020-10-08
  
  - name: Yoshi's Archipelago
    link: https://www.supermariobrosx.org/forums/viewtopic.php?t=20762
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLwCSbNRup0sJ5k4Itv4LiF
+   pl-src: raocow
    start: 2020-10-09
+   end: 2020-11-12
+   
+ - name: Super Mario Bros. 3 Ascetic Run
+   link: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19533
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIFA5VBs5Ca88fMgzYpcO_r
+   pl-src: raocow
+   start: 2020-11-13
  
 ...
