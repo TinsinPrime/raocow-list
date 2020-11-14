@@ -213,10 +213,10 @@
  - name: The Mario
    link: http://smwdb.me/db/4/43f23c3217750eda1623067aa763e35278401e79/
    link-type: smwdb
-   
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtDuzBmYff29scdfX5qXZBc
+   pl-src: raolists
    start: 2009-05-15
    end: 2009-05-28
-   
    
  - name: Marisa and Alice
    link: https://en.touhouwiki.net/wiki/Marisa_and_Alice
@@ -235,22 +235,36 @@
    end: 2009-06-06
  
  - name: World of Illusion
-   link: smwdb.me/db/e/eb9391358c16094cba06b3bd0839bef8875eb5c6/
+   link: http://smwdb.me/db/e/eb9391358c16094cba06b3bd0839bef8875eb5c6/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvVXJjZOPe4iemFyXJE9NuP
+   pl-src: raolists
+   start: 2009-06-07
+   end: 2009-06-16
  
  - name: Mario Forever
-   link: softendo.com/mario-forever-games-download/mario-forever-fangame-v7-01-beta-2017
+   link: http://softendo.com/mario-forever-games-download/mario-forever-fangame-v7-01-beta-2017
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtjeZzgQUPMnc3OmfWPgkXp
+   pl-src: raolists
+   start: 2009-06-17
+   end: 2009-06-28
    
  - name: Super Mario World Returns
    link: http://smwdb.me/db/c/c9c6aadaefcefa6b4fe056c120cd8a25e3f0ef10/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuyv6_vFDCh_mo7Y11HjxF5
+   pl-src: raolists
+   start: 2009-06-29
+   end: 2009-07-18
  
  - name: An Untitled Story
-   link: www.mattmakesgames.com
+   link: http://www.mattmakesgames.com
    link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIvBV79Ovds2TTqcbm3KlVK
    pl-src: raocow
+   start: 2009-07-09
+   end: 2009-08-14
  
  - name: Super Mario World Returns 2
    link: smwdb.me/db/1/1ae61243f410cbc5df60c238dd9b61abf1f252fa/
@@ -447,7 +461,7 @@
    end: 2012-02-02
  
  - name: Karoshi Saga
- 
+   
  
  - name: GMC Jam 5
  
