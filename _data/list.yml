@@ -304,6 +304,7 @@
    pl-src: raolists
    start: 2009-06-29
    end: 2009-07-18
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=131
  
  - name: An Untitled Story
    link: http://www.mattmakesgames.com
@@ -338,6 +339,7 @@
    pl-src: video
    start: 2009-08-15
    end: 2009-08-15
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
  
  - name: Jump on Mushrooms
    link: http://hempuli.com/mush/
@@ -346,6 +348,7 @@
    pl-src: video
    start: 2009-08-16
    end: 2009-08-16
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
  
  - name: "SYNSO: Squid Harder"
    link: https://www.moddb.com/games/squid-yes-not-so-octopus/downloads
@@ -354,6 +357,7 @@
    pl-src: video
    start: 2009-08-17
    end: 2009-08-17
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
    
  - name: ":thegame:"
    link: https://www.newgrounds.com/portal/view/467574
@@ -362,6 +366,7 @@
    pl-src: raolists
    start: 2009-08-18
    end: 2009-08-18
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
  
  - name: Max Damage
    link: http://www.onemorelevel.com/game/max_damage
@@ -370,6 +375,7 @@
    pl-src: video
    start: 2009-08-19
    end: 2009-08-19
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
    
  - name: Spelunky Classic
    link: https://spelunkyworld.com/original.html
@@ -378,6 +384,7 @@
    pl-src: video
    start: 2009-08-20
    end: 2009-08-20
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
    
  - name: GROW
    link: https://play.google.com/store/apps/details?id=air.com.eyezmaze.GROWPACKvol1
@@ -386,6 +393,7 @@
    pl-src: video
    start: 2009-08-21
    end: 2009-08-21
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
  
  - name: MUGEN
    link: https://en.wikipedia.org/wiki/Mugen_(engine)
@@ -394,6 +402,7 @@
    pl-src: video
    start: 2009-08-22
    end: 2009-08-22
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=302
  
  # random week 2009 END
  
@@ -412,6 +421,7 @@
    pl-src: raolists
    start: 2009-08-23
    end: 2009-08-31
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=330
  
  - name: Super Challenge World (YouTube Run)
    link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
@@ -420,6 +430,7 @@
    pl-src: raolists
    start: 2009-09-02
    end: 2009-10-15
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=363
  
  - name: Super Metroid Legacy
    link: http://metroidconstruction.com/hack.php?id=25
@@ -428,6 +439,7 @@
    pl-src: raolists
    start: 2009-09-02
    end: 2009-11-30
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=7&t=360
  
  - name: Super Mario Omega
    link: https://www.smwcentral.net/?p=section&a=details&id=5252
@@ -444,6 +456,7 @@
    pl-src: raolists
    start: 2009-10-16
    end: 2009-11-18
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=570
    
  - name: Tottemo YEAHHHH!!
    link: http://smwdb.me/db/e/e5c403b6538f834c72a0137ad28326ba087d05f7/
@@ -578,6 +591,12 @@
    end: 2010-04-30
  
  - name: SMWCentral Vanilla Contest '10
+   link: https://www.smwcentral.net/?p=viewthread&t=29666
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDscI3g_KQPFUl2KNZpqGXPP
+   pl-src: raolists
+   start: 2010-04-29
+   end: 2010-08-07
  
  - name: Kirby's Dream Land 3
    link: https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_3
@@ -587,21 +606,177 @@
    start: 2010-05-01
    end: 2010-05-26
  
- 
  - name: VVVVVV
+   link: https://store.steampowered.com/app/70300/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvdVxnHQw0U5-0fQPaJ0sAI
+   pl-src: raolists
+   start: 2010-05-27
+   end: 2010-06-20
+ 
  - name: Mega Man X - Intermission
+   link: https://en.wikipedia.org/wiki/Mega_Man_X
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuYrLEdGsJWVDKH2qX9uH5m
+   pl-src: raolists
+   start: 2010-06-05
+   end: 2010-06-09
+   
  - name: Mega Man X2 - Intermission
- - name: Bunny Must Die
+   link: https://en.wikipedia.org/wiki/Mega_Man_X2
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuYrLEdGsJWVDKH2qX9uH5m
+   pl-src: raolists
+   start: 2010-06-09
+   end: 2010-06-16
+ 
+ - name: Bunny Must Die! Chelsea and the 7 Devils
+   link: https://store.steampowered.com/app/250660/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDt5YCSr2qsnFqqOZyiCGh3c
+   pl-src: raolists
+   start: 2010-08-08
+   end: 2010-10-23
+ 
  - name: HACK
+   link: https://www.smwcentral.net/?p=section&a=details&id=5428
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtyjPNLIWddpoh-WKWxmWw9
+   pl-src: raolists
+   start: 2010-08-22
+   end: 2010-08-24
+   
  - name: "The Second Reality Project 2: Zycloboo's Challenge (YouTube Run)"
+   link: http://www.fpi-productions.de/tsrp2.html
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDu18Z88DQdyf1oN6nYB_sSm
+   pl-src: raolists
+   start: 2010-08-24
+   end: 2010-10-16
+ 
  - name: Hyper V
+   link: http://smwdb.me/db/9/95ca9ad5a9a9cffd6dc0d1eecea5bd89e96bcd67/
+   link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtoEZIUyEBMu4uLRKwro90P
+   pl-src: raolists
+   start: 2010-10-17
+   end: 2010-12-15
+ 
  - name: Spelunky
- - name: Newgrounds Roulette
+   link: https://spelunkyworld.com/original.html
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDshIQoB8lsZPfXcRr20cwBD
+   pl-src: raolists
+   start: 2010-12-16
+   end: 2010-12-19
+  
+ 
+ # Newgrounds Roulette begins
+
+ - name: K.O.L.M.
+   link: https://www.newgrounds.com/portal/view/556643
+   link-type: website
+   pl: https://www.youtube.com/watch?v=oYDwPguvuTc
+   pl-src: video
+   start: 2010-12-20
+   end: 2010-12-20
+   
+ - name: Effective Attack
+   link: https://www.newgrounds.com/portal/view/556815
+   link-type: website
+   pl: https://www.youtube.com/watch?v=1y8nauoii94
+   pl-src: video
+   start: 2010-12-21
+   end: 2010-12-21
+   
+ - name: Berzerk Ball
+   link: https://www.newgrounds.com/portal/view/556904
+   link-type: website
+   pl: https://www.youtube.com/watch?v=MdWfchqLXB0
+   pl-src: video
+   start: 2010-12-22
+   end: 2010-12-22
+   
+ - name: Champions of Chaos
+   link: https://www.newgrounds.com/portal/view/556975
+   link-type: website
+   pl: https://www.youtube.com/watch?v=9ZMenQj6V_I
+   pl-src: video
+   start: 2010-12-23
+   end: 2010-12-23
+  
+ - name: Insidia
+   link: https://www.newgrounds.com/portal/view/557083
+   link-type: website
+   pl: https://www.youtube.com/watch?v=HM3H1-tSWaI
+   pl-src: video
+   start: 2010-12-25
+   end: 2010-12-25
+  
+ - name: "The Visitor: Massacre at Camp Happy"
+   link: https://www.newgrounds.com/portal/view/557343
+   link-type: website
+   pl: https://www.youtube.com/watch?v=bC9sJBSSJ3I
+   pl-src: video
+   start: 2010-12-26
+   end: 2010-12-26
+  
+ - name: Rocket Toilet
+   link: https://www.newgrounds.com/portal/view/557586
+   link-type: website
+   pl: https://www.youtube.com/watch?v=MdlhWJwsluM
+   pl-src: video
+   start: 2010-12-27
+   end: 2010-12-27
+   
+ - name: Paranormal Shark Activity
+   link: https://www.newgrounds.com/portal/view/557660
+   link-type: website
+   pl: https://www.youtube.com/watch?v=xg--aMjpNuA
+   pl-src: video
+   start: 2010-12-30
+   end: 2010-12-30
+   
+ - name: Balls in Space
+   link: https://www.newgrounds.com/portal/view/557794
+   link-type: website
+   pl: https://www.youtube.com/watch?v=X_JsMB2Kpqo
+   pl-src: video
+   start: 2010-12-31
+   end: 2010-12-31
+   
+ - name: "20 Seconds to Die"
+   link: https://www.newgrounds.com/portal/view/557900
+   link-type: website
+   pl: https://www.youtube.com/watch?v=nynRneffkL4
+   pl-src: video
+   start: 2011-01-01
+   end: 2011-01-01
+  
+ - name: BearBound
+   link: https://www.newgrounds.com/portal/view/557910
+   link-type: website
+   pl: https://www.youtube.com/watch?v=xK8HwFvbJRk
+   pl-src: video
+   start: 2011-01-02
+   end: 2011-01-02
+  
+ - name: Bat Country
+ - name: Crystal Runner
+ - name: Liquid Measure 2 Dark Fluid Level Pack
+ - name: Humaliens Battle 2
+ - name: Polygon Racer 3D
+ # Newgrounds Roulette ends
+ 
  - name: Mario Gives Up
  - name: An SMWCentral Production
  - name: Scarlet Devil Mario 2
  - name: The Invasion 2
+ 
+ # One More Level Begins
  - name: One More Level
+ # One More Level Ends
+ 
  - name: Megaman Rocks!
  - name: The Great Empire
  
@@ -1450,7 +1625,7 @@
    
    
    start: 2020-11-30
-   
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19558
  
  - name: "Super Demo World: The Legend Continues"
    link: https://www.smwcentral.net/?p=section&a=details&id=9678
