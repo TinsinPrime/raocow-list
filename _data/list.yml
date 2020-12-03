@@ -1241,6 +1241,14 @@
    start: 2020-11-13
    end: 2020-12-01
    
+ - name: Sorcerer Lulba
+   link: https://www.msx.org/news/en/sorcerer-lulba-translated
+   link-type: website
+   pl: https://www.youtube.com/watch?v=zdG-RYhxJ1A
+   pl-src: video
+   start: 2020-11-27
+   end: 2020-11-27
+   
  - name: Metal Slug
    link: https://en.wikipedia.org/wiki/Metal_Slug_(1996_video_game)
    link-type: wiki
