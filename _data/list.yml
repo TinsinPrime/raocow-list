@@ -405,36 +405,61 @@
    start: 2009-08-18
    end: 2009-09-01
  
- - name: Blobs Adventure 2
+ - name: Blob's Adventure 2
    link: https://www.newgrounds.com/portal/view/632203
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtYJJG0ond_eAadzEE7--HS
+   pl-src: raolists
+   start: 2009-08-23
+   end: 2009-08-31
  
  - name: Super Challenge World (YouTube Run)
    link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDujvW8ldTxpr10r70eXCIiv
+   pl-src: raolists
+   start: 2009-09-02
+   end: 2009-10-15
  
  - name: Super Metroid Legacy
    link: http://metroidconstruction.com/hack.php?id=25
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtAGUnEKQ5bHOJBisUJX80W
+   pl-src: raolists
+   start: 2009-09-02
+   end: 2009-11-30
  
  - name: Super Mario Omega
    link: https://www.smwcentral.net/?p=section&a=details&id=5252
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDthYFsyv9eQBjtOJq-EKLR7
+   pl-src: raolists
+   start: 2009-09-18
+   end: 2009-10-22
  
  - name: SMWCentral Chocolate Level Design Contest
    link: https://www.smwcentral.net/?p=viewthread&t=22769
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtI6nncqFQnYrE4hooWyr8O
+   pl-src: raolists
+   start: 2009-10-16
+   end: 2009-11-18
    
  - name: Tottemo YEAHHHH!!
    link: http://smwdb.me/db/e/e5c403b6538f834c72a0137ad28326ba087d05f7/
    link-type: smwdb
- 
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuPcoRT80y0BsOdakz23vvn
+   pl-src: raolists
+   start: 2009-10-23
+   end: 2009-11-13
  
  - name: Mushroom Kingdom Meltdown
    link: https://www.smwcentral.net/?p=section&a=details&id=9904
    link-type: smwc   
-   
- 
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDv2pRdm3XcArc3PNzoeTVjb
+   pl-src: raolists
+   start: 2009-11-19
+   end: 2009-12-12
  
  - name: "Runman: Race Around the World"
    link: http://www.mattmakesgames.com/
@@ -445,15 +470,78 @@
    end: 2009-12-19
  
  - name: Mushroom Kingdom Meltdown 2
+   link: https://www.smwcentral.net/?p=section&a=details&id=10032
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsJCNa8gUEMlofFFI3XJiDP
+   pl-src: raolists
+   start: 2009-12-13
+   end: 2010-01-12
+ 
  - name: Nezumi Man
+   link: https://indieoverlook.com/freeware/nezumi-man/
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDujVd-vsnBQWxnBVemawLVX
+   pl-src: raolists
+   start: 2009-12-15
+   end: 2010-01-13
+   
  - name: Super Mario World 2 Plus
- - name: Random Week 2010
+   link: https://www.smwcentral.net/?p=section&a=details&id=4569
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtfUFuf9ZCvNnigvAMkd2uU
+   pl-src: raolists
+   start: 2009-12-29
+   end: 2010-02-20
+ 
+ # Random Week 2010 BEGINS
+ 
+ - name: Robot Dinosaurs That Shoot Beams When They Roar
+   link: https://www.kongregate.com/games/i_smell/robot-dinosaurs-that-shoot-beams-when-they-roar
+   link-type: website
+   pl: https://www.youtube.com/watch?v=XbgOBNHoT48
+   pl-src: video
+   start: 2010-01-14
+   end: 2010-01-14
+   
+ - name: Upgrade Complete!
+   link: https://www.kongregate.com/games/armorgames/upgrade-complete
+   link-type: website
+   pl: https://www.youtube.com/watch?v=rgxDEQes9bE
+   pl-src: video
+   start: 2010-01-15
+   end: 2010-01-15
+   
+ - name: The Company of Myself
+   link: https://www.kongregate.com/games/2darray/the-company-of-myself
+   link-type: website
+   pl: https://www.youtube.com/watch?v=u8kxzwXwWhU
+   pl-src: video
+   start: 2010-01-16
+   end: 2010-01-16
+   
+ - name: Multitask
+   link: https://www.kongregate.com/games/IcyLime/multitask
+   link-type: website
+   pl: https://www.youtube.com/watch?v=sJrzI2rKU9c
+   pl-src: video
+   start: 2010-01-17
+   end: 2010-01-17
+   
+ - name: Cat Planet
+   link: https://ludumdata.openfu.com/game/34055
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PL45amowyyxOodQe1Raa4JrOkNl4RAFRbR
+   pl-src: tinsin
+   start: 2010-01-19
+   end: 2010-01-19
+ 
+ # Random Week 2010 ENDS
+ 
  - name: Scarlet Devil Mario
  - name: The Legend of Randorland 3
  - name: EVW
  - name: Hacks 101
  - name: A Super Mario Thing
-   link: 
  
  - name: SMWCentral Vanilla Contest '10
  
