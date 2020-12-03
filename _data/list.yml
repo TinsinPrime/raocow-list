@@ -538,10 +538,44 @@
  # Random Week 2010 ENDS
  
  - name: Scarlet Devil Mario
+   link: http://smwdb.me/db/0/035a0b3db6eb6b13ec7abfff38f93c74a0787040/
+   link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvAM8toDZaovxist0XawGvF
+   pl-src: raolists
+   start: 2010-01-20
+   end: 2010-02-24
+ 
  - name: The Legend of Randorland 3
+   link: https://www.smwcentral.net/?p=section&a=details&id=10002
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtmXqTZ_UzwXwxuTQfBO5T3
+   pl-src: raolists
+   start: 2010-02-21
+   end: 2010-03-06
+   
  - name: EVW
+   link: https://www.smwcentral.net/?p=section&a=details&id=10001
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsXkXChAdRuMgL4_CTsht4r
+   pl-src: raolists
+   start: 2010-02-25
+   end: 2010-03-09
+   
  - name: Hacks 101
+   link: https://www.smwcentral.net/?p=section&a=details&id=19884
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsHCMLlm4HnBA3GGMpgYxyS
+   pl-src: raolists
+   start: 2010-03-08
+   end: 2010-03-11
+ 
  - name: A Super Mario Thing
+   link: https://www.smwcentral.net/?p=section&a=details&id=17125
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsomyGHkkjLSbOlrLqvPcwG
+   pl-src: raolists
+   start: 2010-03-10
+   end: 2010-04-30
  
  - name: SMWCentral Vanilla Contest '10
  
