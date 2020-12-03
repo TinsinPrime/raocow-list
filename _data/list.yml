@@ -1216,7 +1216,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIoKfdVVpwMz3r5eBJQqF4I
    pl-src: raocow
    start: 2020-09-27
-   end: 2020-11-25
+   end: 2020-11-27
  
  - name: Sonic Heroes
    link: https://en.wikipedia.org/wiki/Sonic_Heroes
@@ -1239,5 +1239,37 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIFA5VBs5Ca88fMgzYpcO_r
    pl-src: raocow
    start: 2020-11-13
+   end: 2020-12-01
+   
+ - name: Metal Slug
+   link: https://en.wikipedia.org/wiki/Metal_Slug_(1996_video_game)
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKFZpS2dagnahB9tJXsC96H
+   pl-src: raocow
+   start: 2020-11-28
+   end: 2020-12-01
+   
+ - name: SANICS (Xmas 2020)
+   link: https://en.wikipedia.org/wiki/Advent_calendar
+   link-type: wiki
+   
+   
+   start: 2020-11-30
+   
+ 
+ - name: Super Demo World: The Legend Continues
+   link: https://www.smwcentral.net/?p=section&a=details&id=9678
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKj1k2M4uZhbk6wLtM8bmdw
+   pl-src: raocow
+   start: 2020-12-02
+   
+ - name: Metal Slug X
+   link: https://en.wikipedia.org/wiki/Metal_Slug_2#Metal_Slug_X
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKFZpS2dagnahB9tJXsC96H
+   pl-src: raocow
+   start: 2020-12-02
+      
  
 ...
