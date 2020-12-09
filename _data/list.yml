@@ -762,7 +762,19 @@
    end: 2011-01-02
   
  - name: Bat Country
+   link: https://www.newgrounds.com/portal/view/558055
+   link-type: website
+   pl: https://www.youtube.com/watch?v=pfxEpg57GKc
+   pl-src: video
+   start: 2011-01-03
+   end: 2011-01-03
+   
  - name: Crystal Runner
+   link: https://www.newgrounds.com/portal/view/558168
+   link-type: website
+   pl: https://www.youtube.com/watch?v=gNgpzGViOCk
+   pl-src: video
+ 
  - name: Liquid Measure 2 Dark Fluid Level Pack
  - name: Humaliens Battle 2
  - name: Polygon Racer 3D
@@ -1640,6 +1652,13 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKFZpS2dagnahB9tJXsC96H
    pl-src: raocow
    start: 2020-12-02
-      
+   end: 2020-12-06
+
+ - name: Metal Slug 3
+   link: https://en.wikipedia.org/wiki/Metal_Slug_3
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKFZpS2dagnahB9tJXsC96H
+   pl-src: raocow
+   start: 2020-12-07
  
 ...
