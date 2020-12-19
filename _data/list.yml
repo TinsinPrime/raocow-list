@@ -541,7 +541,7 @@
    end: 2010-01-17
    
  - name: Cat Planet
-   link: https://ludumdata.openfu.com/game/34055
+   link: http://love-game.net/
    link-type: website
    pl: https://www.youtube.com/playlist?list=PL45amowyyxOodQe1Raa4JrOkNl4RAFRbR
    pl-src: tinsin
@@ -1442,7 +1442,8 @@
    end: 2020-07-29
  
  - name: Vanilla Level Design Contest X
- 
+   link: https://www.smwcentral.net/?p=viewthread&t=89093
+   link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLfR3352ykf3N2YYOjQ-1xwe3i1r8Uk6fX
    pl-src: skyluigi2
    start: 2020-04-14
@@ -1660,5 +1661,13 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKFZpS2dagnahB9tJXsC96H
    pl-src: raocow
    start: 2020-12-07
+   end: 2020-12-12
+ 
+ - name: Ōkami
+   link: https://en.wikipedia.org/wiki/%C5%8Ckami
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ6fXp7YizzcynVfyYCwaa_
+   pl-src: raocow
+   start: 2020-12-13
  
 ...
