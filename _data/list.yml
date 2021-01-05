@@ -1638,6 +1638,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLRqxNae-7FRkiRZDU6gIKd
    pl-src: raocow
    start: 2020-11-30
+   end: 2020-12-25
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19558
  
  - name: "Super Demo World: The Legend Continues"
@@ -1646,6 +1647,8 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKj1k2M4uZhbk6wLtM8bmdw
    pl-src: raocow
    start: 2020-12-02
+   end: 2020-12-27
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19562
    
  - name: Metal Slug X
    link: https://en.wikipedia.org/wiki/Metal_Slug_2#Metal_Slug_X
@@ -1670,4 +1673,18 @@
    pl-src: raocow
    start: 2020-12-13
  
+ - name: Donkey Kong 3
+   link: https://en.wikipedia.org/wiki/Donkey_Kong_3
+   link-type: wiki
+   pl: https://www.youtube.com/watch?v=-rLnLRrNNhQ
+   pl-src: video
+   start: 2020-12-28
+   end: 2020-12-28
+   
+ - name: Donkey Kong 64
+   link: https://en.wikipedia.org/wiki/Donkey_Kong_64
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_y_fNUYFZ6BuIm75LWVZV
+   pl-src: raocow
+   start: 2020-12-29
 ...
