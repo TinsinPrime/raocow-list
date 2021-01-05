@@ -996,7 +996,15 @@
  - name: Zoda's Revenge
  - name: Wings of Vi
  - name: A Mini Falafel Adventure
- - name: Escape Goat
+ 
+ - name: Escape Goat 
+   link: https://store.steampowered.com/app/251370/Escape_Goat/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLVaXyTRiYnh6bOOvGkTwUz
+   pl-src: raocow
+   start: 2015-10-10
+   end: 2015-11-19
+ 
  - name: Iji
  - name: Mibibli's Quest
  - name: Mario Gives Up 3
@@ -1080,7 +1088,15 @@
  
  - name: MegaMari
  - name: test.smc
+ 
  - name: Escape Goat 2
+   link: https://store.steampowered.com/app/255340/Escape_Goat_2/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLVaXyTRiYnh6bOOvGkTwUz
+   pl-src: raocow
+   start: 2017-04-14
+   end: 2017-05-09
+ 
  - name: Hypnosis Redo
  - name: Rise to the Challenge (Redo)
  - name: "Shovel Knight: Plague of Shadows"
