@@ -781,16 +781,32 @@
  # Newgrounds Roulette ends
  
  - name: Mario Gives Up
- - name: An SMWCentral Production
+   link: https://www.smwcentral.net/?p=section&a=details&id=6026
+   link-type: smwc
+
+ - name: An SMW Central Production
+   link: https://www.smwcentral.net/?p=section&a=details&id=5420
+   link-type: smwc
+
  - name: Scarlet Devil Mario 2
+   link: http://smwdb.me/db/6/6dd497666934ebb2ae0618660829314e6644bb6f/
+   link-type: smwdb
+   
  - name: The Invasion 2
+   link: https://www.supermariobrosx.org/
+   link-type: website
  
  # One More Level Begins
  - name: One More Level
  # One More Level Ends
  
  - name: Megaman Rocks!
+   link: http://ericruthgames.weebly.com/games.html
+   link-type: website
+
  - name: The Great Empire
+   link: https://www.supermariobrosx.org/
+   link-type: website
  
  - name: CRAZ'D
    link: http://www.hubolhubolhubol.com/index.php?id=crazd
@@ -801,9 +817,17 @@
    end: 2011-06-28
  
  - name: Something
+   link: https://www.smwcentral.net/?p=section&a=details&id=5479
+   link-type: smwc
+  
  - name: VIP & Wall & ALASKA Mix 5
+   link: https://w.atwiki.jp/sm4wiki_mix/pages/83.html
+   link-type: website
+
  - name: SMW FreedoMN
- 
+   link: http://smwdb.me/db/2/29389edeb3797c222e710b5fbc66cb3abd4e0533/
+   link-type: smwdb
+
  - name: Swim, Ikachan!
    link: https://www.cavestory.org/pixels-works/ikachan.php
    link-type: website
@@ -841,6 +865,7 @@
    pl-src: raocow
    start: 2012-01-10
    end: 2012-02-02
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=4381
  
  - name: Karoshi Saga
    
@@ -860,13 +885,30 @@
    link-type: website
  
  - name: 5th Annual SMWCentral.net Vanilla Level Design Contest
+
  - name: Talkhaus Make a Good Level Contest
+   link: https://talkhaus.raocow.com/viewtopic.php?f=49&t=14635
+   link-type: website
+
  - name: GMC Jam 6
+   
  - name: Super Pixel Man +
+
  - name: "MegaMan: A Day in the Limelight"
+
+
  - name: 8 Powers
+   link: http://smwdb.me/db/9/94c30d35bcf7c618fe66df17cc0657b6a80230c3/
+   link-type: smwdb
+
  - name: Super Talking Time Bros. 2
+   link: https://rpgmaker.net/games/4043/
+   link-type: website
+
  - name: Bowser's Last Stand
+   link: https://www.mfgg.net/index.php?act=resdb&param=02&c=2&id=25631
+   link-type: website
+   
  - name: "MegaMan: A Day in the Limelight 2"
  - name: (Pandora's Box)
  
@@ -877,18 +919,37 @@
    pl-src: raocow
  
  - name: Romancing Mario
+   link: smwdb.me/db/b/b2edfe82c4b350e4f539028e1ed2f036caaa7ab4/
+   link-type: smwdb
+
  - name: Distorted Travesty 2
+   link: http://distortedtravesty.blogspot.com/p/distorted-travesty-2-info-page.html
+   link-type: website
+
  - name: Super Talking Time Bros.
+   link: https://rpgmaker.net/games/4043/
+   link-type: website
+
  - name: "Marisa and Alice 2: Trap Tower"
- 
- 
+   link: https://en.touhouwiki.net/wiki/Marisa_and_Alice%27s_Trap_Tower
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
    pl-src: raocow
    
  - name: Yoshi's Island Level Design Contest
+
  - name: Drama Mistery
+   link: http://smwdb.me/db/d/dab6e0de3d82c36b557281e58b2c1e60bb9366c0/
+   link-type: smwdb
+
  - name: Notte Luminosa
+   link: http://smwdb.me/db/a/a67800f4f1033cc27b21df2864be47dd8a04fcee/
+   link-type: smwdb
+
  - name: Tower of Biased 2
+   link: https://www.supermariobrosx.org/forums/viewtopic.php?t=1764
+   link-type: website
+
  - name: VIP Mario 1 (HorikawaOtane Translation)
    link: http://horikawaotane.com/vip1
    link-type: website
@@ -898,6 +959,9 @@
    end: 2013-01-22
    
  - name: Street Fighter X Megaman
+   link: http://megaman.capcom.com/sfxmm/sfxmm_dl_uk.html
+   link-type: website
+
  - name: GMC Jam 1 / 2 / 3 / 4 / 7 / 8 / 9
  
  - name: Copy Kitty (Cirnya Levels)
@@ -905,51 +969,135 @@
    link-type: steam
  
  - name: 3000 Leagues in Search of Bowser
+   link: http://smwdb.me/db/2/281540f5cbd5e090a7cf2238f408f9cc72cec308/
+   link-type: smwdb
+
  - name: ViViD
+   link: https://gamejolt.com/games/vivid/12437
+   link-type: website
+
  - name: Kid Adventure
+   link: http://smwdb.me/db/0/0c33200b6d232b5a3551f550667e1a88e4cd6b68/
+   link-type: smwdb
+
  - name: Bootleg Super Mario World
+   link: https://bootleggames.fandom.com/wiki/Super_Mario_World_/(Famicom/)
+   link-type: wiki
+
  - name: "A Super Mario Bros. X Thing: Prelude to the Stupid"
+   link: https://talkhaus.raocow.com/viewtopic.php?t=13073
+   link-type: website
  
  - name: Copy Kitty (Kirby Comment levels)
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
    link-type: steam
  
  - name: Talkhaus Make a Good Level Contest 2
+   link: https://talkhaus.raocow.com/viewtopic.php?f=49&t=14635
+   link-type: website
+
  - name: Takkoman - Kouzatsu World
+   link: https://en.touhouwiki.net/wiki/Takkoman_-Kouzatsu_World-
+   link-type: wiki
+
  - name: Apocalypse of Foroze
+   link: https://rpgmaker.net/games/2652/
+   link-type: website
+
  - name: Super Marina World
+   link: https://www.smwcentral.net/?p=section&a=details&id=21832
+   link-type: smwc
+
  - name: Super Talking Time Bros. 2.5
+   link: https://rpgmaker.net/games/5255/
+   link-type: website
+
  - name: Uirdz
+   link: https://www.newgrounds.com/portal/view/609515
+   link-type: website
+
  - name: Hina's Fluffy Dream
+   link: www.desunoya.sakura.ne.jp/product/hinahuwa/
+   link-type: website
+
  - name: The Variety of Chance
+   link: https://www.smwcentral.net/?p=viewthread&t=92640&page=1&pid=1459944
+   link-type: smwc
+
  - name: Megaman Rock Force
+   link: http://megamanrockforce.com/rockforcemain.html
+   link-type: website
+
  - name: HACK 2
+   link: https://www.smwcentral.net/?p=section&a=details&id=5987
+   link-type: smwc
+
  - name: The Second Reality Project Reloaded (Youtube Run)
+   link: http://www.fpi-productions.de/tsrp.html
+   link-type: website
+
  - name: Rockman 4 Infinity
+   link: https://sites.google.com/site/rockman4mi/
+   link-type: website
+
  - name: Super Pika Land Ultra
+   link: https://www.smwcentral.net/?p=section&a=details&id=6351
+   link-type: smwc
+
  - name: Kid Adventure 2
+   link: https://www.smwcentral.net/?p=section&a=details&id=5184
+   link-type: smwc
+
  - name: Talkhaus Make a Good Level Contest X
+   link: http://www.mediafire.com/file/am6bk3c140aqq0e/MaGL_X-v1.00-%25E5%25A0%2580%25E5%25B7%259D%25E7%2589%2588.7z/file
+   link-type: website
+
  - name: Golden Yoshi Returns
+   link: https://www.smwcentral.net/?p=section&a=details&id=4565
+   link-type: smwc
+
  - name: Golden Yoshi Returns Again
+   link: https://www.smwcentral.net/?p=section&a=details&id=4566
+   link-type: smwc
+
  - name: "Yoshi's Island: Forlorn Lands"
+   link: https://www.smwcentral.net/?p=viewthread&t=22285
+   link-type: smwc
  
  - name: Copy Kitty Turbo
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
    link-type: steam
  
- 
  - name: Megaman Unlimited
+   link: http://megaphilx.com/index.php/home/games/mega-man-unlimited/
+   link-type: website
+
  - name: A 2econd Mario Thing (Zombie ROM)
    link: http://smwdb.me/db/a/ae3a092621c5a293111c20f79b0f400261f03ae3/
    link-type: smwdb
  
  - name: Yoshi's Island Level Contest 2014
  - name: A Second Mario Bros X Thing
- - name: Valdis Story
+
+ - name: "Valdis Story: Abyssal City"
+   link: https://store.steampowered.com/app/252030/Valdis_Story_Abyssal_City/
+   link-type: steam
+
  - name: Superb Demo Sisters
+   link: https://talkhaus.raocow.com/viewtopic.php?f=47&t=15054
+   link-type: website
+
  - name: Something Else
+   link: https://www.smwcentral.net/?p=section&a=details&id=6304
+   link-type: smwc
+
  - name: An Advent Christmas Thing (Advent 2014)
+   link: https://en.wikipedia.org/wiki/Advent_calendar
+   link-type: wiki
+
  - name: Stellar Swing
+   link: https://store.steampowered.com/app/1319990/Stellar_Swing/
+   link-type: steam
  
  - name: 2
    link: http://www.hubolhubolhubol.com/index.php?id=2
@@ -959,43 +1107,114 @@
    start: 2014-12-21
    end: 2015-01-02
  
- - name: Symphony of the Night
+ - name: "Castlevania: Symphony of the Night"
+   link: https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night
+   link-type: wiki
+
  - name: Vanilla Contest 2014
- - name: Parodius Series
+
+ - name: Parodius Da!
+   link: https://en.wikipedia.org/wiki/Parodius!_From_Myth_to_Laughter
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtNhCQqr3m79vMGhlHczRAh
+   pl-src: raolists
+   start: 2015-02-06
+   end: 2015-02-16
+
+ - name: Gokujou Parodius
+   link: https://en.wikipedia.org/wiki/Gokujo_Parodius
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtNhCQqr3m79vMGhlHczRAh
+   pl-src: raolists 
+   start: 2015-02-17
+   end: 2015-02-26
+
  - name: Super Mario Japan Truth Story
- - name: (Let's Cortex)
- 
- - name: Super Meat Boy
    
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsHkPBO49WF8qLoxPx3JsT9
+   pl-src: raolists
+   start: 2015-02-19
+   end: 2015-04-06
+
+ - name: Jikkyou Oshaberi Parodius
+   link: https://en.wikipedia.org/wiki/Jikky%C5%8D_Oshaberi_Parodius
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtNhCQqr3m79vMGhlHczRAh
+   pl-src: raolists
+   start: 2015-02-27
+   end: 2015-03-06
+
+ - name: Super Meat Boy
+   link: https://store.steampowered.com/app/40800/Super_Meat_Boy/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDv-Cq4bH5409notyI0icrOV
+   pl-src: raolists
+   start: 2015-03-07
+   end: 2015-05-11   
  
  - name: Toadette Strikes
+   link: https://www.mfgg.net/index.php?act=resdb&param=02&c=2&id=30718
+   link-type: website
+
  - name: SMW Remix
+   link: https://www.smwcentral.net/?p=section&a=details&id=25540
+   link-type: smwc
+
  - name: Vanilla Level Design Contest 8
- - name: A Game About a Dragon
- - name: Shovel Knight
+   link: https://www.smwcentral.net/?p=section&a=details&id=11254
+   link-type: smwc
+
+ - name: "DRAGON: A Game About a Dragon"
+   link: https://store.steampowered.com/app/351150/DRAGON_A_Game_About_a_Dragon/
+   link-type: steam
+
+ - name: "Shovel Knight: Shovel of Hope"
+   link: https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
+   link-type: steam
+
  - name: SKY ISLAND
+   link: https://armorgames.com/play/10899/sky-island
+   link-type: website
+
  - name: Soldexus
- 
+   link: https://archive.org/details/Soldexus
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLV4aIujtzuEmqkk0IaTCdy
    pl-src: raocow
    start: 2015-06-14
    end: 2015-06-29
  
  - name: Kaizo Contest X
+
  - name: JET GUNNER
+   link: https://store.steampowered.com/app/314250/Jet_Gunner/
+   link-type: steam
+
  - name: Talkhaus Make a Good Level X Contest 2
+
  - name: StarTropics
+   link: https://en.wikipedia.org/wiki/StarTropics
+   link-type: wiki
+
  - name: Big Fish Legend
-   
+   link: https://store.steampowered.com/app/376560/Big_Fish_Legend/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKNuClBvRmQuLjZTXVJFfoW
    pl-src: raocow
    start: 2015-08-01
    end: 2016-08-12
  
- 
- - name: Zoda's Revenge
+ - name: "Zoda's Revenge: StarTropics II"
+   link: https://en.wikipedia.org/wiki/Zoda%27s_Revenge:_StarTropics_II
+   link-type: wiki
+
  - name: Wings of Vi
+   link: https://store.steampowered.com/app/318530/Wings_of_Vi/
+   link-type: steam
+
  - name: A Mini Falafel Adventure
+   link: https://beadybox.itch.io/a-mini-falafel-adventure
+   link-type: website
  
  - name: Escape Goat 
    link: https://store.steampowered.com/app/251370/Escape_Goat/
@@ -1006,7 +1225,17 @@
    end: 2015-11-19
  
  - name: Iji
+   link: http://www.remar.se/daniel/iji.php
+   link-type: website
+
  - name: Mibibli's Quest
+   link: https://store.steampowered.com/app/453990/Mibiblis_Quest/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLvt-k7KlyvAsCdnQxzBmI2
+   pl-src: raocow
+   start: 2015-12-07
+   end: 2018-04-18
+
  - name: Mario Gives Up 3
  - name: An Advent Christmas X Thing (Advent 2015)
  - name: Guacamelee! Super Turbo Championship Edition
@@ -1356,7 +1585,15 @@
  - name: Dr. Robotnik's Mean Bean Machine (8bit)
  - name: Sonic Drift
  - name: Sonic the Hedgehog's Gameworld
+
  - name: Crash Bandicoot
+   link: https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxbbSj3MSwzNUwYvSQShzfd0
+   pl-src: nast
+   start: 2019-09-12
+   end: 2019-10-01
+
  - name: Sonic Spinball (8bit)
  - name: Tails and the Music Maker
  - name: Sonic 3 & Knuckles
@@ -1381,7 +1618,15 @@
  - name: Sonic Spinball (Tiger Electronics)
  - name: Sonic Drift 2
  - name: Knuckle's Chaotix
+
  - name: Crash Bandicoot 2
+   link: https://en.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxandpiH1iriRug1teKfIjH1
+   pl-src: nast
+   start: 2019-11-20
+   end: 2019-12-14
+
  - name: Tails' Skypatrol
  - name: 24th Annual December Event! (Advent 2019)
  - name: Tails Adventure
@@ -1454,28 +1699,47 @@
  - name: Sonic Jam (Game.COM)
    link: https://en.wikipedia.org/wiki/Sonic_Jam
    link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJHVnbY9heADDsC40JgBeCd
+   pl-src: raocow
+   start: 2020-01-27
+   end: 2020-01-29
    
  - name: Donkey Kong Land
    link: https://en.wikipedia.org/wiki/Donkey_Kong_Land
    link-type: wiki
  
+
  - name: Sonic Adventure
    link: https://en.wikipedia.org/wiki/Sonic_Adventure
    link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK0tap5H2-CVKblOv58lO1O
+   pl-src: raocow
+   start: 2020-01-30
+   end: 2020-09-15
  
  - name: Super SIG World 38
    link: http://smwdb.me/db/c/cf66d037b5ecc1c860e97e01cc5a5e813db80954/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLfR3352ykf3MP7mKKzrGZqHRA7EsDYvGG
+   pl-src: skyluigi2
+   start: 2020-02-09
+   end: 2020-03-03
  
  - name: Crash Bandicoot 3
    link: https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped
    link-type: wiki
- 
+   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxYGDb1ssgjDZBkDk-IHTxGM
+   pl-src: nast
+   start: 2020-02-19
+   end: 2020-03-19  
  
  - name: New Super Marisa Land
    link: www.tasofro.net/6kinoko/index.html
    link-type: website
-   
+   pl: https://www.youtube.com/playlist?list=PLqYCO11emwBcItLU00RCtCMVqhNWCa0nx
+   pl-src: alice
+   start: 2020-03-04
+   end: 2020-03-28
  
  - name: Copy Kitty (Savant)
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
@@ -1493,7 +1757,6 @@
    start: 2020-03-24
    end: 2020-04-04
    
- 
  - name: Nachos and Fried Oreos
    link: https://www.smwcentral.net/?p=viewthread&t=96179&page=1&pid=1488635#p1488635
    link-type: smwc
@@ -1517,8 +1780,7 @@
    pl-src: raocow
    start: 2020-04-04
    end: 2020-04-09
- 
- 
+
  - name: So 2 Mice Walk Into a Bar...
    link: https://www.smwcentral.net/?p=section&a=details&id=21950
    link-type: smwc
@@ -1693,6 +1955,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQBe-gxZ5eGEeHtBK5W9rt
    pl-src: raocow
    start: 2020-10-08
+   end: 2021-01-04
  
  - name: Yoshi's Archipelago
    link: https://www.supermariobrosx.org/forums/viewtopic.php?t=20762
@@ -1760,12 +2023,13 @@
    start: 2020-12-07
    end: 2020-12-12
  
- - name: Ōkami
-   link: https://en.wikipedia.org/wiki/%C5%8Ckami
-   link-type: wiki
+ - name: Ōkami HD
+   link: https://store.steampowered.com/app/587620/Okami_HD/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ6fXp7YizzcynVfyYCwaa_
    pl-src: raocow
    start: 2020-12-13
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19595
  
  - name: Donkey Kong 3
    link: https://en.wikipedia.org/wiki/Donkey_Kong_3
@@ -1774,6 +2038,7 @@
    pl-src: video
    start: 2020-12-28
    end: 2020-12-28
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19709
    
  - name: Donkey Kong 64
    link: https://en.wikipedia.org/wiki/Donkey_Kong_64
@@ -1781,16 +2046,65 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_y_fNUYFZ6BuIm75LWVZV
    pl-src: raocow
    start: 2020-12-29
-
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19710
 
  - name: Sonic 3D (Shockwave)
+   pl: https://www.youtube.com/watch?v=Lyk8McU0A1w
+   pl-src: video
+   start: 2021-01-05
+   end: 2021-01-05
+   
  - name: Mini Toy
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLTYVis1PnjxzfnK_ewIHck
+   pl-src: raocow
+   start: 2021-01-06
+   end: 2021-01-08
+  
  - name: Sonic Adventure 2 Battle Jigsaw
+   pl: https://www.youtube.com/watch?v=oJTiMcEq8to
+   pl-src: video
+   start: 2021-01-07
+   end: 2021-01-07
+
  - name: Sonic Adventure 2 Battle Jigsaw 2
+   pl: https://www.youtube.com/watch?v=G1mX1ZNhoLU
+   pl-src: video
+   start: 2021-01-08
+   end: 2021-01-08
+
  - name: Sonic Darts
+   pl: https://www.youtube.com/watch?v=PsUDXJjxqGY
+   pl-src: video
+   start: 2021-01-09
+   end: 2021-01-09
+
  - name: Sonic Speedway
+   pl: https://www.youtube.com/watch?v=KC1QryO3g-U
+   pl-src: video
+   start: 2021-01-10
+   end: 2021-01-10
+
  - name: Sonic Heroes Puzzle
+   pl: https://www.youtube.com/watch?v=d26s1dM_Ut0
+   pl-src: video
+   start: 2021-01-11
+   end: 2021-01-11
+
  - name: Sonic Hopping
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJhpgFy__hULhp6F_elBoVK
+   pl-src: raocow
+   start: 2021-01-12
+   end: 2021-01-13
+
  - name: "Sonic X: A Super Sonic Hero - Volume 1"
+   pl: https://www.youtube.com/watch?v=VE7yh1xMgaY
+   pl-src: video
+   start: 2021-01-14
+   end: 2021-01-14
+
  - name: Sonic Advance 3
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLwwlnORmvQSqPUp-Nm6tBF
+   pl-src: raocow
+   start: 2021-01-15
+
 ...
