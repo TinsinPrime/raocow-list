@@ -2106,5 +2106,103 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLwwlnORmvQSqPUp-Nm6tBF
    pl-src: raocow
    start: 2021-01-15
+   end: 2021-02-13
+
+ - name: Sonic Tennis
+   pl: https://www.youtube.com/watch?v=y8u9tvQcc_I
+   pl-src: video
+   start: 2021-02-14
+   end: 2021-02-14
+
+ - name: Sonic Mega Collection Plus Mini
+   pl: https://www.youtube.com/watch?v=uMwFCB8KZp8
+   pl-src: video
+   start: 2021-02-15
+   end: 2021-02-15
+
+ - name: A Super Mario Thing Replay
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJLtk2e27WAn0tETUR0J8Q5
+   pl-src: raocow
+   start: 2021-02-16
+   end: 2021-03-30
+
+ - name: Sega Superstars Advergame
+   pl: https://www.youtube.com/watch?v=HN80bIH3ZTM
+   pl-src: video
+   start: 2021-02-16
+   end: 2021-02-16
+
+ - name: Sonic X Ring Thing
+   pl: https://www.youtube.com/watch?v=WJcqD_TY0Ew
+   pl-src: video
+   start: 2021-02-17
+   end: 2021-02-17
+
+ - name: Sonic Xs
+   pl: https://www.youtube.com/watch?v=YdwhfmuFRvU
+   pl-src: video
+   start: 2021-02-18
+   end: 2021-02-18
+
+ - name: Shadow XS
+   pl: https://www.youtube.com/watch?v=LWIV5aUDkCo
+   pl-src: video
+   start: 2021-02-19
+   end: 2021-02-19
+
+ - name: Sonic Jump
+   pl: https://www.youtube.com/watch?v=ZQLPabDUB_o
+   pl-src: video
+   start: 2021-02-20
+   end: 2021-02-20
+
+ - name: Sonic X (Leapster)
+   start: 2021-02-21
+   end: 2021-02-21
+
+ - name: Sonic the Broad Jump
+   pl: https://www.youtube.com/watch?v=TdwCktvM2IQ
+   pl-src: video
+   start: 2021-02-22
+   end: 2021-02-22
+
+ - name: Shadow the Hedgehog
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
+   pl-src: raocow
+   start: 2021-02-23
+
+ - name: "Shovel Knight: King of Cards"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJbwUdzw7JcvUxoaIJo4oGM
+   pl-src: raocow
+   start: 2021-02-26
+   end: 2021-03-28
+   
+ - name: Shovel Knight Showdown
+   pl: https://www.youtube.com/watch?v=idUbS3lwW5Y
+   pl-src: video
+   start: 2021-03-29
+   end: 2021-03-29
+
+ - name: Evil Zone
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3hHpBD9AMhH_DTodua3i5
+   pl-src: raocow
+   start: 2021-03-30
+   end: 2021-04-08
+
+ - name: Make a Good MegaMan Level
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKGZecDTypT6xRaCtlf4Xee
+   pl-src: raocow
+   start: 2021-03-31
+   end: 2021-04-15
+
+ - name: Make a Good Level Context X3
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_clQC8GLols3o1r2H2GHk
+   pl-src: raocow
+   start: 2021-04-09
+
+ - name: Zwei!! The Arges Adventure
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_zh6NyotJkh2eFkwJi4K7
+   pl-src: raocow
+   start: 2021-04-16
 
 ...
