@@ -2170,14 +2170,19 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
    pl-src: raocow
    start: 2021-02-23
+   end: 2021-05-01
 
  - name: "Shovel Knight: King of Cards"
+   link: https://store.steampowered.com/app/250760/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJbwUdzw7JcvUxoaIJo4oGM
    pl-src: raocow
    start: 2021-02-26
    end: 2021-03-28
    
  - name: Shovel Knight Showdown
+   link: https://store.steampowered.com/app/250760/
+   link-type: steam
    pl: https://www.youtube.com/watch?v=idUbS3lwW5Y
    pl-src: video
    start: 2021-03-29
@@ -2196,13 +2201,24 @@
    end: 2021-04-15
 
  - name: Make a Good Level Context X3
+   link: https://talkhaus.raocow.com/viewtopic.php?f=71&t=19908
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_clQC8GLols3o1r2H2GHk
    pl-src: raocow
    start: 2021-04-09
 
  - name: Zwei!! The Arges Adventure
+   link: https://en.wikipedia.org/wiki/Zwei:_The_Arges_Adventure
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_zh6NyotJkh2eFkwJi4K7
    pl-src: raocow
    start: 2021-04-16
+
+ - name: Sonic Rush
+   link: https://en.wikipedia.org/wiki/Sonic_Rush
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKeokpAeN6ZsSLCUo4jF_zN
+   pl-src: raocow
+   start: 2021-05-02
 
 ...
