@@ -1186,10 +1186,18 @@
  - name: Megaman Rocks!
    link: http://ericruthgames.weebly.com/games.html
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuF3vW_Ck3XbpK-6faADBVx
+   pl-src: raolists
+   start: 2011-05-08
+   end: 2011-05-21
 
  - name: The Great Empire
    link: https://www.supermariobrosx.org/
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuyFtRLkMlglcJGHp4MTkWL
+   pl-src: raolists
+   start: 2011-05-22
+   end: 2011-06-10
  
  - name: CRAZ'D
    link: http://www.hubolhubolhubol.com/index.php?id=crazd
@@ -1202,18 +1210,34 @@
  - name: Something
    link: https://www.smwcentral.net/?p=section&a=details&id=5479
    link-type: smwc
-  
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvAS_6NwHOQ8TkCPQtBqd38
+   pl-src: raolists
+   start: 2011-06-11
+   end: 2011-07-01
+
  - name: VIP & Wall & ALASKA Mix 5
    link: https://w.atwiki.jp/sm4wiki_mix/pages/83.html
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvaiCqb7jsxQVnLq-3jgr5k
+   pl-src: raolists
+   start: 2011-07-02
+   end: 2011-08-29
 
  - name: SMW FreedoMN
    link: http://smwdb.me/db/2/29389edeb3797c222e710b5fbc66cb3abd4e0533/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsDcYlx8lcR1m08T1ZAnY9K
+   pl-src: raolists
+   start: 2011-08-30
+   end: 2011-10-05
 
  - name: Swim, Ikachan!
    link: https://www.cavestory.org/pixels-works/ikachan.php
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvCTcyagAnZwbYxaX0NFlyp
+   pl-src: raolists
+   start: 2011-08-30
+   end: 2011-09-03
  
  - name: Fantasy Explorer Nitroid!
    link: https://en.touhouwiki.net/wiki/Gensou_Tansaku_Nitroid!
@@ -1226,20 +1250,42 @@
  - name: SMWCentral.net 24-Hour Ninth Door Contest
    link: https://www.smwcentral.net/?p=viewthread&t=50349
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDs2WOUZzohBM9MZ8vEvVQxK
+   pl-src: raolists
+   start: 2011-10-06
+   end: 2011-10-29
  
  - name: Mario Gives Up 2
    link: https://www.smwcentral.net/?p=section&a=details&id=5398
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvYzm6z7GfBtzFVJ1mDu7Ft
+   pl-src: raolists
+   start: 2011-10-30
+   end: 2011-12-01
  
  - name: Psycho Waluigi
    link: https://mfgg.net/index.php?act=resdb&param=02&c=2&id=25698
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuerPXaf5VuZrI3HjKyXXjJ
+   pl-src: raolists
+   start: 2011-12-02
+   end: 2011-12-22
  
  - name: Voxatron
    link: https://www.lexaloffle.com/voxatron.php
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtG0DAjHm58mlsn_hYKUFuj
+   pl-src: raolists
+   start: 2011-12-19
+   end: 2012-07-10
  
  - name: Ascetic Super Mario World
+   
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDujMwJLZBnMhFMiU-DufNoh
+   pl-src: raolists
+   start: 2011-12-23
+   end: 2012-01-09
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=3925
  
  - name: S. Mario
    link: http://smwdb.me/db/0/022abb83eaf12de205d28389665d33ffdf636338/
@@ -1250,8 +1296,50 @@
    end: 2012-02-02
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=4381
  
- - name: Karoshi Saga
+# Karoshi begins
+
+ - name: Karoshi
+   link: https://www.karoshigame.com/
+   link-type: website
+   pl: https://www.youtube.com/watch?v=yu4J8khPMDQ
+   pl-src: video
+   start: 2012-01-26
+   end: 2012-01-26
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=4821
    
+ - name: Karoshi 2.0
+   link: https://www.karoshigame.com/
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtZpSVRqOB1POBcVITmZDVN
+   pl-src: raolists
+   start: 2012-01-27
+   end: 2012-01-28
+   
+ - name: Karoshi Mario
+   link: https://www.smwcentral.net/?p=section&a=details&id=9980
+   link-type: smwc
+   pl: https://www.youtube.com/watch?v=v6dfL3sBUAA
+   pl-src: video
+   start: 2012-01-28
+   end: 2012-01-28
+
+ - name: Super Karoshi
+   link: https://www.karoshigame.com/
+   link-type: website
+   pl: https://www.youtube.com/watch?v=CnPoR30lRpM
+   pl-src: video
+   start: 2012-01-29
+   end: 2012-01-29
+
+ - name: Karoshi Factory
+   link: https://www.karoshigame.com/
+   link-type: website
+   pl: https://www.youtube.com/watch?v=I93j9vj7_OA
+   pl-src: video
+   start: 2012-01-30
+   end: 2012-01-30
+
+# Karoshi ends
  
  - name: GMC Jam 5
  
