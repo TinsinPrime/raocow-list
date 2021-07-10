@@ -1707,7 +1707,10 @@
  - name: Donkey Kong Land
    link: https://en.wikipedia.org/wiki/Donkey_Kong_Land
    link-type: wiki
- 
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLUyeXaZWmOJ15AcpgTtYGy
+   pl-src: raocow
+   start: 2020-01-28
+   end: 2020-02-08
 
  - name: Sonic Adventure
    link: https://en.wikipedia.org/wiki/Sonic_Adventure
@@ -1816,45 +1819,45 @@
  - name: Half Life 2
    link: https://store.steampowered.com/app/220/HalfLife_2/
    link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
-   pl-src: nast
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJZRQKT2j_s7Y3FPk6NdGDv
+   pl-src: raocow
    start: 2020-05-01
    end: 2020-06-06
  
  - name: Zombie VIP 6
    link: https://ux.getuploader.com/SMW_MIX6
    link-type: website
-   pl: https://www.youtube.com/playlist?list=PLfR3352ykf3N7qP1ROX2-ffLRf-ypZSO2
-   pl-src: skyluigi2
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJufNuSfs2DxpgzoX7ce6LP
+   pl-src: raocow
    start: 2020-05-02
    end: 2020-07-26
  
  - name: "Half Life 2: Lost Coast"
-   link: https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/
+   link: https://store.steampowered.com/app/340/
    link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
-   pl-src: nast
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJZRQKT2j_s7Y3FPk6NdGDv
+   pl-src: raocow
    start: 2020-06-07
    end: 2020-06-07
  
  - name: "Half Life 2: Episode One"
-   link: https://store.steampowered.com/app/380/HalfLife_2_Episode_One/
+   link: https://store.steampowered.com/app/380/
    link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
-   pl-src: nast
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJZRQKT2j_s7Y3FPk6NdGDv
+   pl-src: raocow
    start: 2020-06-08
    end: 2020-06-16
  
  - name: "Half Life 2: Episode Two"
-   link: https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
+   link: https://store.steampowered.com/app/420/
    link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLANPRIDM8pxaX9Y3SCbvbxZJCCB3G6WrJ
-   pl-src: nast
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJZRQKT2j_s7Y3FPk6NdGDv
+   pl-src: raocow
    start: 2020-06-20
    end: 2020-07-02
  
  - name: Katamari Damacy REROLL
-   link: https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/
+   link: https://store.steampowered.com/app/848350/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKilDI29x6TOHXmXgjJZhZl
    pl-src: raocow
@@ -1870,7 +1873,7 @@
    end: 2020-07-28
    
  - name: Wandersong
-   link: https://store.steampowered.com/app/530320/Wandersong/
+   link: https://store.steampowered.com/app/530320/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLeX41mvq6UZcApqAKb1vxs
    pl-src: raocow
@@ -1902,7 +1905,7 @@
    end: 2020-08-31
  
  - name: Gato Roboto
-   link: https://store.steampowered.com/app/916730/Gato_Roboto/
+   link: https://store.steampowered.com/app/916730/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKLHdL1BhYRVKzP04u-_cte
    pl-src: raocow
@@ -1910,7 +1913,7 @@
    end: 2020-09-04
    
  - name: "Life Goes On: Done to Death"
-   link: https://store.steampowered.com/app/250050/Life_Goes_On_Done_to_Death/
+   link: https://store.steampowered.com/app/250050/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJATTAimvmQzXr3Q39OdA15
    pl-src: raocow
@@ -2024,7 +2027,7 @@
    end: 2020-12-12
  
  - name: Ōkami HD
-   link: https://store.steampowered.com/app/587620/Okami_HD/
+   link: https://store.steampowered.com/app/587620/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ6fXp7YizzcynVfyYCwaa_
    pl-src: raocow
@@ -2097,12 +2100,16 @@
    end: 2021-01-13
 
  - name: "Sonic X: A Super Sonic Hero - Volume 1"
+   link: https://en.wikipedia.org/wiki/Game_Boy_Advance_Video
+   link-type: wiki
    pl: https://www.youtube.com/watch?v=VE7yh1xMgaY
    pl-src: video
    start: 2021-01-14
    end: 2021-01-14
 
  - name: Sonic Advance 3
+   link: https://en.wikipedia.org/wiki/Sonic_Advance_3
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLwwlnORmvQSqPUp-Nm6tBF
    pl-src: raocow
    start: 2021-01-15
@@ -2121,6 +2128,8 @@
    end: 2021-02-15
 
  - name: A Super Mario Thing Replay
+   link: https://www.smwcentral.net/?p=section&a=details&id=17125
+   link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJLtk2e27WAn0tETUR0J8Q5
    pl-src: raocow
    start: 2021-02-16
@@ -2157,6 +2166,8 @@
    end: 2021-02-20
 
  - name: Sonic X (Leapster)
+   link: https://en.wikipedia.org/wiki/Leapster
+   link-type: wiki
    start: 2021-02-21
    end: 2021-02-21
 
@@ -2167,6 +2178,8 @@
    end: 2021-02-22
 
  - name: Shadow the Hedgehog
+   link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
    pl-src: raocow
    start: 2021-02-23
@@ -2189,6 +2202,8 @@
    end: 2021-03-29
 
  - name: Evil Zone
+   link: https://en.wikipedia.org/wiki/Evil_Zone
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3hHpBD9AMhH_DTodua3i5
    pl-src: raocow
    start: 2021-03-30
@@ -2213,6 +2228,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_zh6NyotJkh2eFkwJi4K7
    pl-src: raocow
    start: 2021-04-16
+   end: 2021-05-28
 
  - name: Sonic Rush
    link: https://en.wikipedia.org/wiki/Sonic_Rush
@@ -2220,5 +2236,46 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKeokpAeN6ZsSLCUo4jF_zN
    pl-src: raocow
    start: 2021-05-02
+   end: 2021-05-20
+
+ - name: Shadow the Hedgehog Flash
+   pl: https://www.youtube.com/watch?v=BdkjyffpeeM
+   pl-src: video
+   start: 2021-05-21
+   end: 2021-05-21
+
+ - name: Sonic the Hedgehog Part 1 and Part 2
+
+   pl: https://www.youtube.com/watch?v=ZOzXtp_naEk
+   pl-src: video
+   start: 2021-05-22
+   end: 2021-05-22
+
+ - name: Shadow Shoot
+   
+   pl: https://www.youtube.com/watch?v=SGF2EI807Lc
+   pl-src: video
+   start: 2021-05-23
+   end: 2021-05-23
+
+ - name: Subzero Heroes
+   link: https://www.supermariobrosx.org/forums/viewtopic.php?t=26235
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIyPVQgwcXYI8bxZsGf3Bfa
+   pl-src: raocow
+   start: 2021-05-29
+   end: 2021-06-27
+
+ - name: Sonic the Hedgehog (2006)
+   link: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(2006_video_game)
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
+   pl-src: raocow
+   start: 2021-06-09
+
+ - name: Yoku's Island Express
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIURIduMHqc1hHwKoetlkTz
+   pl-src: raocow
+   start: 2021-06-28
 
 ...
