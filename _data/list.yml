@@ -1342,45 +1342,113 @@
 # Karoshi ends
  
  - name: GMC Jam 5
+   link: https://web.archive.org/web/20191211074914/https://gmc.yoyogames.com/index.php?showtopic=530276
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDs3F6LnlrAcPeRMH2DHulFD
+   pl-src: raolists
+   start: 2012-01-31
+   end: 2012-04-03
+   thread: https://talkhaus.raocow.com/viewtopic.php?p=126372
  
  - name: MARIO ADVENTURE
    link: https://www.romhacking.net/hacks/70
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsDb0burlAIkFbT8O7UJKcK
+   pl-src: raolists
+   start: 2012-02-03
+   end: 2012-02-29
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=4981
  
  - name: New! SMW2 Yoshi's Island
    link: https://www.smwcentral.net/?p=section&a=details&id=4646
    link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtoA5sWU_FLRy9tH53son6c
+   pl-src: raolists
+   start: 2012-03-20
+   end: 2012-07-22
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=6769
 
  - name: Distorted Travesty
    link: http://distortedtravesty.blogspot.com/p/distorted-travesty-1.html
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsnYHhuSLlp_YMliUAdg2Yn
+   pl-src: raolists
+   start: 2012-04-05
+   end: 2012-08-08
+   thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=7706
  
  - name: 5th Annual SMWCentral.net Vanilla Level Design Contest
+   link: https://www.smwcentral.net/?p=viewthread&t=55786&page=1
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuLBfmNWTT_kznYl5C2hHdY
+   pl-src: raolists
+   start: 2012-04-21
+   end: 2012-05-05
 
  - name: Talkhaus Make a Good Level Contest
    link: https://talkhaus.raocow.com/viewtopic.php?f=49&t=14635
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuXbB5QCua-dLb9qYBx-x48
+   pl-src: raolists
+   start: 2012-05-05
+   end: 2012-06-01
 
  - name: GMC Jam 6
+   link: https://web.archive.org/web/20191124064459/http://gmc.yoyogames.com/index.php?showtopic=538089
+   link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtlN0PPo5J8Uym871Ob8LQI
+   pl-src: raolists
+   start: 2012-06-14
+   end: 2012-06-27
    
  - name: Super Pixel Man +
+   link: http://sandbox.yoyogames.com/games/193437/download
+   link-type: -dead-
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuEP9hocPT4mtxqF83SjIks
+   pl-src: raolists
+   start: 2012-06-28
+   end: 2012-07-05
 
  - name: "MegaMan: A Day in the Limelight"
-
+   link: https://fusion-fangaming.itch.io/mega-man-day-in-the-limelight
+   link-type: itch
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuRX9QXvAdouHXlVcGUkUQc
+   pl-src: raolists
+   start: 2012-07-06
+   end: 2012-07-20
 
  - name: 8 Powers
    link: http://smwdb.me/db/9/94c30d35bcf7c618fe66df17cc0657b6a80230c3/
    link-type: smwdb
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtVzGeUF1Ba4AUL6LL0x2Fx
+   pl-src: raolists
+   start: 2012-07-23
+   end: 2012-08-03
 
  - name: Super Talking Time Bros. 2
    link: https://rpgmaker.net/games/4043/
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsZ6dfoZX6VQjSH_DP0vP8t
+   pl-src: raolists
+   start: 2012-08-04
+   end: 2012-09-05
 
  - name: Bowser's Last Stand
    link: https://www.mfgg.net/index.php?act=resdb&param=02&c=2&id=25631
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDv3OvJP1M7E3wUIzaG7kmA9
+   pl-src: raolists
+   start: 2012-08-09
+   end: 2012-08-14
    
  - name: "MegaMan: A Day in the Limelight 2"
+   link: https://fusion-fangaming.itch.io/mega-man-day-in-the-limelight
+   link-type: itch
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuH_Oud816zFEXEpXpDjXtS
+   pl-src: raolists
+   start: 2012-08-15
+   end: 2012-09-02
+
  - name: (Pandora's Box)
  
  - name: Copy Kitty
@@ -2754,5 +2822,6 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLfj9I0MvNoDOCcUy75fHrb
    pl-src: raocow
    start: 2021-07-14
+   end: 2021-08-02
 
 ...
