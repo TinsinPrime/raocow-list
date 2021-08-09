@@ -1450,6 +1450,10 @@
    end: 2012-09-02
 
  - name: (Pandora's Box)
+   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDt-VctpSng4sF9ImRIqIKTU
+   pl-src: raolists
+   start: 2012-08-24
+   end: 2012-09-02
  
  - name: Copy Kitty
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
@@ -1590,6 +1594,8 @@
  - name: Talkhaus Make a Good Level Contest X
    link: http://www.mediafire.com/file/am6bk3c140aqq0e/MaGL_X-v1.00-%25E5%25A0%2580%25E5%25B7%259D%25E7%2589%2588.7z/file
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKLIwTnfpn_3IFC7WIBzjAo
+   pl-src: raocow
 
  - name: Golden Yoshi Returns
    link: https://www.smwcentral.net/?p=section&a=details&id=4565
@@ -2760,6 +2766,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_clQC8GLols3o1r2H2GHk
    pl-src: raocow
    start: 2021-04-09
+   end: 2021-08-07
 
  - name: Zwei!! The Arges Adventure
    link: https://en.wikipedia.org/wiki/Zwei:_The_Arges_Adventure
@@ -2778,6 +2785,7 @@
    end: 2021-05-20
 
  - name: Shadow the Hedgehog Flash
+
    pl: https://www.youtube.com/watch?v=BdkjyffpeeM
    pl-src: video
    start: 2021-05-21
@@ -2813,15 +2821,33 @@
    start: 2021-06-09
 
  - name: Yoku's Island Express
+   link: https://store.steampowered.com/app/334940/Yokus_Island_Express/
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIURIduMHqc1hHwKoetlkTz
    pl-src: raocow
    start: 2021-06-28
    end: 2021-07-13
 
  - name: Star Fox 64
+   link: https://en.wikipedia.org/wiki/Star_Fox_64
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLfj9I0MvNoDOCcUy75fHrb
    pl-src: raocow
    start: 2021-07-14
    end: 2021-08-02
+
+ - name: Ghost Trick
+   link: https://en.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLFmz2y8dhahmaR7ZHnpi2J
+   pl-src: raocow
+   start: 2021-08-03
+
+ - name: Spyro the Dragon
+   link: https://en.wikipedia.org/wiki/Spyro_the_Dragon
+   link-type: wiki
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2BZ3VmZG_QV6tNMZuF_mA
+   pl-src: raocow
+   start: 2021-08-08
 
 ...
