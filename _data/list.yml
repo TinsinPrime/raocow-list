@@ -2819,6 +2819,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
    pl-src: raocow
    start: 2021-06-09
+   end: 2021-08-04
 
  - name: Yoku's Island Express
    link: https://store.steampowered.com/app/334940/Yokus_Island_Express/
@@ -2849,5 +2850,28 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2BZ3VmZG_QV6tNMZuF_mA
    pl-src: raocow
    start: 2021-08-08
+
+ - name: Christmas NiGHTS Into Dreams
+   pl: https://www.youtube.com/watch?v=dxaLdsFiEPI
+   pl-src: video
+   start: 2021-08-10
+   end: 2021-08-10
+
+ - name: Sonic the Hedgehog Into Dreams
+   pl: https://www.youtube.com/watch?v=7hzIf6r_iBE
+   pl-src: video
+   start: 2021-08-11
+   end: 2021-08-11
+
+ - name: Sonic the Hedgehog Genesis (Game Boy Advance)
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIGbsEzX49TihddXONDAqj6
+   pl-src: raocow
+   start: 2021-08-12
+   end: 2021-08-18
+
+ - name: Sonic Rivals
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL_9Fe47awaRhZoD9v91XbL
+   pl-src: raocow
+   start: 2021-08-19
 
 ...
