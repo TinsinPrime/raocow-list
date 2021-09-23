@@ -2843,6 +2843,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLFmz2y8dhahmaR7ZHnpi2J
    pl-src: raocow
    start: 2021-08-03
+   end: 2021-09-01
 
  - name: Spyro the Dragon
    link: https://en.wikipedia.org/wiki/Spyro_the_Dragon
@@ -2871,16 +2872,20 @@
    end: 2021-08-18
 
  - name: Sonic Rivals
+   link: https://en.wikipedia.org/wiki/Sonic_Rivals
+   link-type: wiki
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL_9Fe47awaRhZoD9v91XbL
    pl-src: raocow
    start: 2021-08-19
+   end: 2021-09-02
 
- - name: "Celeste: Fairwell"
+ - name: "Celeste: Farewell"
    link: https://store.steampowered.com/app/504230/
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLuPoeFgmN_vWNIm74dhOJG
    pl-src: raocow
    start: 2021-09-02
+   end: 2021-09-20
 
  - name: Tadpole Treble
    link: https://store.steampowered.com/app/354400/
@@ -2911,4 +2916,10 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
    pl-src: raocow
    start: 2021-09-06
+   
+ - name: Kirby's Dream Course
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI1XPNJ4oE2CCBbGrbLTWK0
+   pl-src: raocow
+   start: 2021-09-21
+
 ...
