@@ -1186,8 +1186,8 @@
  - name: Megaman Rocks!
    link: http://ericruthgames.weebly.com/games.html
    link-type: website
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuF3vW_Ck3XbpK-6faADBVx
-   pl-src: raolists
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJF345A0DHaecTysYmYx5Tx
+   pl-src: raocow
    start: 2011-05-08
    end: 2011-05-21
 
@@ -1412,8 +1412,8 @@
  - name: "MegaMan: A Day in the Limelight"
    link: https://fusion-fangaming.itch.io/mega-man-day-in-the-limelight
    link-type: itch
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuRX9QXvAdouHXlVcGUkUQc
-   pl-src: raolists
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKQSvZz7njk4Gj8oWPCZeTN
+   pl-src: raocow
    start: 2012-07-06
    end: 2012-07-20
 
@@ -1444,8 +1444,8 @@
  - name: "MegaMan: A Day in the Limelight 2"
    link: https://fusion-fangaming.itch.io/mega-man-day-in-the-limelight
    link-type: itch
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuH_Oud816zFEXEpXpDjXtS
-   pl-src: raolists
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKQSvZz7njk4Gj8oWPCZeTN
+   pl-src: raocow
    start: 2012-08-15
    end: 2012-09-02
 
@@ -1504,6 +1504,10 @@
  - name: Street Fighter X Megaman
    link: http://megaman.capcom.com/sfxmm/sfxmm_dl_uk.html
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKk2tA3o7Ac7qHauC2IDB4U
+   pl-src: raocow
+   start: 2013-01-24
+   end: 2013-02-01
 
  - name: GMC Jam 1 / 2 / 3 / 4 / 7 / 8 / 9
  
@@ -1570,6 +1574,10 @@
  - name: Megaman Rock Force
    link: http://megamanrockforce.com/rockforcemain.html
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLAnpwKIzGPa31F3xdpPnWf
+   pl-src: raocow
+   start: 2013-11-24
+   end: 2013-12-10
 
  - name: HACK 2
    link: https://www.smwcentral.net/?p=section&a=details&id=5987
@@ -1582,6 +1590,10 @@
  - name: Rockman 4 Infinity
    link: https://sites.google.com/site/rockman4mi/
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKCL8KT-LDRJhykZOf57Cer
+   pl-src: raocow
+   start: 2014-01-27
+   end: 2014-02-11
 
  - name: Super Pika Land Ultra
    link: https://www.smwcentral.net/?p=section&a=details&id=6351
@@ -1616,6 +1628,10 @@
  - name: Megaman Unlimited
    link: http://megaphilx.com/index.php/home/games/mega-man-unlimited/
    link-type: website
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLyZIWdah5znLKyqQszcfaH
+   pl-src: raocow
+   start: 2014-05-20
+   end: 2014-06-02
 
  - name: A 2econd Mario Thing (Zombie ROM)
    link: http://smwdb.me/db/a/ae3a092621c5a293111c20f79b0f400261f03ae3/
@@ -1811,6 +1827,9 @@
  - name: Rex Rocket
  - name: Wario Land 4
  - name: Megaman sqrt(-1)
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKTGq85eQklcN-VxyOTMu_U
+   pl-src: raocow
+
  - name: SMWCX
  
  - name: Super Cat Planet
@@ -2922,4 +2941,10 @@
    pl-src: raocow
    start: 2021-09-21
 
+ - name: Owlboy
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIGC-up3mODlUsg-KhbFQzX
+   pl-src: raocow
+   link: https://store.steampowered.com/app/115800/
+   link-type: steam
+   start: 2021-09-25
 ...
