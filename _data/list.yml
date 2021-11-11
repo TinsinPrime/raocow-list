@@ -2062,7 +2062,15 @@
  - name: Maverick Hunter X (Vile)
  - name: Necrosphere
  - name: "Mega Man: Powered-Up"
+ 
  - name: Rayman Origins
+   link: https://store.steampowered.com/app/207490/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI6JNpbNHeByi9TA_BK4sGT
+   pl-src: raocow
+   start: 2018-12-28
+   end: 2019-02-09
+   
  - name: Fishing Season 2
  - name: Mega Man ZX
  - name: Chocolate Island 6
@@ -2596,6 +2604,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ6fXp7YizzcynVfyYCwaa_
    pl-src: raocow
    start: 2020-12-13
+   end: 2021-02-25
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19595
  
  - name: Donkey Kong 3
@@ -2613,6 +2622,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_y_fNUYFZ6BuIm75LWVZV
    pl-src: raocow
    start: 2020-12-29
+   end: 2021-02-15
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19710
 
  - name: Sonic 3D (Shockwave)
@@ -2912,6 +2922,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLos5Jr5tEDEhz-v08M-wxb
    pl-src: raocow
    start: 2021-09-02
+   end: 2021-09-24
 
  - name: "Sonic the Hedgehog: Chaos Crush"
    pl: https://www.youtube.com/watch?v=tCpsW87bbdE
@@ -2935,11 +2946,13 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
    pl-src: raocow
    start: 2021-09-06
+   end: 2021-09-27
    
  - name: Kirby's Dream Course
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI1XPNJ4oE2CCBbGrbLTWK0
    pl-src: raocow
    start: 2021-09-21
+   end: 2021-10-06
 
  - name: Owlboy
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIGC-up3mODlUsg-KhbFQzX
@@ -2947,4 +2960,62 @@
    link: https://store.steampowered.com/app/115800/
    link-type: steam
    start: 2021-09-25
+   end: 2021-10-16
+   
+ - name: "play.com Sonic Heroes Competition"
+   pl: https://www.youtube.com/watch?v=LlA99-WbRKo
+   pl-src: video
+   
+   start: 2021-09-28
+   end: 2021-09-28
+   
+ - name: SonicX Bowling
+   pl: https://www.youtube.com/watch?v=o4rLPl43Z0U
+   pl-src: video
+   
+   start: 2021-09-29
+   end: 2021-09-29
+   
+ - name: Sonic and the Secret Rings
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJuiUbZ1kFGcAjfwDJSMont
+   pl-src: raocow
+   link: https://en.wikipedia.org/wiki/Sonic_and_the_Secret_Rings
+   link-type: wiki
+   start: 2021-09-30
+   
+ - name: Invincible Explosion Bangai-O
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKOR9SErQYcdT7TB3YR0n-N
+   pl-src: raocow
+   link: https://en.wikipedia.org/wiki/Bangai-O
+   link-type: wiki
+   start: 2021-10-07
+   end: 2021-10-23
+   
+ - name: Rayman Legends
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIi5-BaztGqpI8ybBUG-Dfc
+   pl-src: raocow
+   link: https://store.steampowered.com/app/242550/
+   link-type: steam
+   start: 2021-10-17
+   
+ - name: Shadow the Hedgehog - Expert
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
+   pl-src: raocow
+   link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
+   link-type: wiki
+   start: 2021-10-21
+ 
+ - name: Popeye
+   pl: https://www.youtube.com/watch?v=n5hmhTkyPXY
+   pl-src: video
+   link: https://en.wikipedia.org/wiki/Popeye_(video_game)
+   link-type: wiki
+   start: 2021-10-24
+   end: 2021-10-24
+ 
+ - name: Donkey Kong Country Returns
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3rJZolwX3nGr9IMUPEpJe
+   pl-src: raocow
+   start: 2021-10-25
+    
 ...
