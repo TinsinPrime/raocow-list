@@ -1,4 +1,14 @@
 ---
+### TEMPLATE
+#
+# - name: Game name
+#   link: Link to game-related site
+#   link-type: website type
+#   pl: Link to playlist
+#   pl-src: Channel name
+#   start: date of first video in ISO 8601
+#   end: date of last video in ISO 8601
+
  - name: The Second Reality Project
    link: http://www.fpi-productions.de/tsrp.html
    link-type: website
@@ -2046,7 +2056,12 @@
    
    
  - name: Rockman.exe WS
+ 
  - name: Hollow Knight
+   link: https://store.steampowered.com/app/367520/
+   link-type: steam
+   
+ 
  - name: Mega Man Network Transmission
  - name: Mega Man Zero 2
  - name: Wario Land 3
@@ -2997,6 +3012,7 @@
    link: https://store.steampowered.com/app/242550/
    link-type: steam
    start: 2021-10-17
+   end: 2021-11-26
    
  - name: Shadow the Hedgehog - Expert
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
@@ -3004,18 +3020,198 @@
    link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
    link-type: wiki
    start: 2021-10-21
+   end: 2021-11-12
  
  - name: Popeye
    pl: https://www.youtube.com/watch?v=n5hmhTkyPXY
    pl-src: video
-   link: https://en.wikipedia.org/wiki/Popeye_(video_game)
-   link-type: wiki
+   link: https://www.igdb.com/games/popeye
+   link-type: igdb
    start: 2021-10-24
    end: 2021-10-24
  
  - name: Donkey Kong Country Returns
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3rJZolwX3nGr9IMUPEpJe
    pl-src: raocow
+   link: https://www.igdb.com/games/donkey-kong-country-returns
+   link-type: igdb
    start: 2021-10-25
+   end: 2021-12-16
+   
+ 
+ - name: Zool
+   pl: https://www.youtube.com/watch?v=k1wGtWw2tT0
+   pl-src: video
+   link: https://www.igdb.com/games/zool
+   link-type: igdb
+   start: 2021-11-13
+   end: 2021-11-13
+   
+ - name: Tearaway Thomas
+   pl: https://www.youtube.com/watch?v=IfqkxkFpsgQ
+   pl-src: video
+   link: https://www.igdb.com/games/tearaway-thomas
+   link-type: igdb
+   start: 2021-11-14
+   end: 2021-11-14
+   
+ - name: Action Pachio
+   pl: https://www.youtube.com/watch?v=x7sRqra5XYg
+   pl-src: video
+   link: https://www.igdb.com/games/action-pachio
+   link-type: igdb
+   start: 2021-11-15
+   end: 2021-11-15
+ 
+ - name: Bubsy
+   pl: https://www.youtube.com/watch?v=Hlz2QOzhKTc
+   pl-src: video
+   link: https://www.igdb.com/games/bubsy-in-claws-encounters-of-the-furred-kind
+   link-type: igdb
+   start: 2021-11-16
+   end: 2021-11-16
+ 
+ - name: High Seas Havoc
+   pl: https://www.youtube.com/watch?v=KPS_9j-WO2U
+   pl-src: video
+   link: https://www.igdb.com/games/high-seas-havoc
+   link-type: igdb
+   start: 2021-11-17
+   end: 2021-11-17
+ 
+ - name: Oscar
+   pl: https://www.youtube.com/watch?v=PHdg01oI5Rc
+   pl-src: video
+   link: https://www.igdb.com/games/oscar
+   link-type: igdb
+   start: 2021-11-18
+   end: 2021-11-18
+ 
+ - name: Socket
+   pl: https://www.youtube.com/watch?v=VQayvVb7y3I
+   pl-src: video
+   link: https://www.igdb.com/games/socket
+   link-type: igdb
+   start: 2021-11-19
+   end: 2021-11-19
+ 
+ - name: Rocky Rodent
+   pl: https://www.youtube.com/watch?v=-po3FoZmJD8
+   pl-src: video
+   link: https://www.igdb.com/games/rocky-rodent
+   link-type: igdb
+   start: 2021-11-20
+   end: 2021-11-20
+
+ - name: "Awesome Possum Kicks Dr. Machino's Butt"
+   pl: https://www.youtube.com/watch?v=4mVx4Vh3DMU
+   pl-src: video
+   link: https://www.igdb.com/games/awesome-possum-kicks-dr-machinos-butt
+   link-type: igdb
+   start: 2021-11-21
+   end: 2021-11-21
+ 
+ - name: Ardy Lightfoot
+   pl: https://www.youtube.com/watch?v=MQufdHEcduA
+   pl-src: video
+   link: https://www.igdb.com/games/ardy-lightfoot
+   link-type: igdb
+   start: 2021-11-22
+   end: 2021-11-22
+ 
+ - name: Mayhem in Monsterland
+   pl: https://www.youtube.com/watch?v=1GdX7QBjCiE
+   pl-src: video
+   link: https://www.igdb.com/games/mayhem-in-monsterland
+   link-type: igdb
+   start: 2021-11-23
+   end: 2021-11-23
+ 
+ - name: Kid Chaos
+   pl: https://www.youtube.com/watch?v=ZgpZVPSGGbM
+   pl-src: video
+   link: https://www.igdb.com/games/kid-chaos
+   link-type: igdb
+   start: 2021-11-24
+   end: 2021-11-24
+   
+ - name: Jazz Jackrabbit
+   pl: https://www.youtube.com/watch?v=NSE32wONpKU
+   pl-src: video
+   link: https://www.igdb.com/games/jazz-jackrabbit
+   link-type: igdb
+   start: 2021-11-25
+   end: 2021-11-25
+ 
+ - name: Sparkster
+   pl: https://www.youtube.com/watch?v=eBqdfqxfvAE
+   pl-src: video
+   link: https://www.igdb.com/games/sparkster
+   link-type: igdb
+   start: 2021-11-26
+   end: 2021-11-26
+ 
+ - name: "Spyro 2: Ripto's Rage!"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIB2qcIyaFBOHAyGvXSp8de
+   pl-src: raocow
+   link: https://www.igdb.com/games/spyro-2-ripto-s-rage
+   link-type: igdb
+   start: 2021-11-27
+   end: 2021-12-25
+ 
+ - name: Radical Rex
+   pl: https://www.youtube.com/watch?v=2Xoxa2J4KVQ
+   pl-src: video
+   link: https://www.igdb.com/games/radical-rex
+   link-type: igdb
+   start: 2021-11-27
+   end: 2021-11-27
+ 
+ - name: Bug!
+   pl: https://www.youtube.com/watch?v=0L9HJA0UacE
+   pl-src: video
+   link: https://www.igdb.com/games/bug
+   link-type: igdb
+   start: 2021-11-28
+   end: 2021-11-28
+ 
+ - name: Mohawk & Headphone Jack
+   pl: https://www.youtube.com/watch?v=G7SYK17w9XA
+   pl-src: video
+   link: https://www.igdb.com/games/mohawk-and-headphone-jack
+   link-type: igdb
+   start: 2021-11-29
+   end: 2021-11-29
+ 
+ - name: Advent 2021
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQSDmymsDAA1weCai63nwX
+   pl-src: raocow
+   
+   start: 2021-11-30
+   end: 2021-12-26
+ 
+ 
+ - name: Punky Skunk
+   pl: https://www.youtube.com/watch?v=cCj2151HGU0
+   pl-src: video
+   link: https://www.igdb.com/games/punky-skunk
+   link-type: igdb
+   start: 2021-11-30
+   end: 2021-11-30
+   
+ - name: Make a Good Level 4
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIjHCEOnWWoPZrqeVR_KVcd
+   pl-src: raocow
+   
+   start: 2021-12-17
+ 
+ 
+ - name: The Lost Vikings
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL6ZVME654zUFdxRhQJrA9q
+   pl-src: raocow
+   link: https://www.igdb.com/games/the-lost-vikings
+   link-type: igdb
+   start: 2021-12-26
+ 
     
 ...
