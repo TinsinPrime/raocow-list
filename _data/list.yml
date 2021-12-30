@@ -3213,5 +3213,11 @@
    link-type: igdb
    start: 2021-12-26
  
-    
+ - name: Ducktales
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJjCN0T3vxq4pcIEI_mXHGz
+   pl-src: raocow   
+   link: https://www.igdb.com/games/ducktales
+   link-type: igdb
+   start: 2021-12-27
+   
 ...
