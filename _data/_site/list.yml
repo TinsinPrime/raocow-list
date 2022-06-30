@@ -1,23 +1,13 @@
 ---
-### TEMPLATE
-#
-# - name: Game name
-#   link: Link to game-related site
-#   link-type: website type
-#   pl: Link to playlist
-#   pl-src: Channel name
-#   start: date of first video in ISO 8601
-#   end: date of last video in ISO 8601
-
  - name: The Second Reality Project
-   link: https://www.smwcentral.net/?p=section&a=details&id=4983
-   link-type: smwc
+   link: http://www.fpi-productions.de/tsrp.html
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvxL0RWPEJeziGYOxKIz2up
    pl-src: raolists
    
  - name: "The Second Reality Project 2: Zycloboo's Challenge"
-   link: https://www.smwcentral.net/?p=section&a=details&id=4974
-   link-type: smwc
+   link: http://www.fpi-productions.de/tsrp2.html
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvuoU_w2uX2sM90D2o0yqFU
    pl-src: raolists
 
@@ -28,8 +18,8 @@
    pl-src: raolists
    
  - name: Super Challenge World
-   link: https://www.smwcentral.net/?p=section&a=details&id=9914
-   link-type: smwc
+   link: http://smwdb.me/db/3/375bed59fdab9bd3028937f93cb47cbdf9d741e5/
+   link-type: smwdb
    
    
  - name: Mario X World Deluxe
@@ -69,26 +59,26 @@
    pl-src: raolists
    
  - name: "Super Mario Infinity 2: The Cursed Gem"
-   link: https://www.smwcentral.net/?p=section&a=details&id=20859
-   link-type: smwc
+   link: http://smwdb.me/db/7/78d7dcbde1be2527d1b01c1385a90ef2c686decb/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvsO3iyFtvO1Zwx9rlbVhGn
    pl-src: raolists
  
  - name: Mario's Return
    link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
-   link-type: smwc
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuf4_8wntGgNwQ0IP4BU0j-
    pl-src: raolists
  
  - name: The Ninji Saga
-   link: https://www.smwcentral.net/?p=section&a=details&id=9710
-   link-type: smwc
+   link: http://smwdb.me/db/0/0a6eadf34278b91e86c267799d3e757860ef6f90/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvWwycyjzaBn6ZPdioukJmt
    pl-src: raolists
  
  - name: Rob-Omb's Quest
-   link: https://www.smwcentral.net/?p=section&a=details&id=9735
-   link-type: smwc
+   link: http://smwdb.me/db/2/248cac1f2e75e65fb1bf23b34fd15f7600c894da/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvHObFQlN8luEH4PTUKyj-D
    pl-src: raolists
    
@@ -111,8 +101,8 @@
    pl-src: raolists
  
  - name: Chaos CompleXX
-   link: https://www.smwcentral.net/?p=section&a=details&id=9680
-   link-type: smwc
+   link: http://www.fpi-productions.de/chaos-complexx.html
+   link-type: website
    
  - name: Luigi's Adventure
    link: http://smwdb.me/db/0/0058abea67256b1aad68e836cfa46015d2fdce53/
@@ -127,7 +117,7 @@
    pl-src: raolists
  
  - name: Kamek's Revenge
-   link: https://www.smwcentral.net/?p=section&a=details&id=12812
+   link: https://tinsin.neocities.org/assets/img/smwcentral.png
    link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsbPljLnXTjUFkD1SkXZekm
    pl-src: raolists
@@ -220,8 +210,8 @@
    end: 2008-12-22
  
  - name: Super Mario World The Reture (Youtube Run)
-   link: https://www.smwcentral.net/?p=section&a=details&id=9777
-   link-type: smwc
+   link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvBsyguQyDElDsz-RJPR392
    pl-src: raolists
    start: 2008-12-22
@@ -1470,53 +1460,30 @@
    link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLiXZdC8e3gjBskbeROTbXq
    pl-src: raocow
-   start: 2012-09-03
-   end: 2013-02-04
  
  - name: Romancing Mario
    link: smwdb.me/db/b/b2edfe82c4b350e4f539028e1ed2f036caaa7ab4/
    link-type: smwdb
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtbfSoxcMukt7P9kScTidGb
-   pl-src: raolists
-   start: 2012-09-06
-   end: 2012-10-03
 
  - name: Distorted Travesty 2
    link: http://distortedtravesty.blogspot.com/p/distorted-travesty-2-info-page.html
    link-type: website
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLifmgHGmKCGv9F0J7PwPcZ
-   pl-src: raocow
-   start: 2012-09-19
-   end: 2012-10-03
 
  - name: Super Talking Time Bros.
    link: https://rpgmaker.net/games/4043/
    link-type: website
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDth_hNnESDMxZZPNSwg4lrA
-   pl-src: raolists
-   start: 2012-10-04
-   end: 2012-11-02
 
  - name: "Marisa and Alice 2: Trap Tower"
    link: https://en.touhouwiki.net/wiki/Marisa_and_Alice%27s_Trap_Tower
    link-type: website
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI759ECPZ6FyTeP9dCr5DVU
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKw8NW28kSIeWZdfAb3r_Do
    pl-src: raocow
-   start: 2012-10-04
-   end: 2012-11-10
    
  - name: Yoshi's Island Level Design Contest
-   
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDssbCgecBNTTI8houDOTsXB
-   pl-src: raolists
-   start: 2012-11-03
-   end: 2012-11-12
 
  - name: Drama Mistery
    link: http://smwdb.me/db/d/dab6e0de3d82c36b557281e58b2c1e60bb9366c0/
    link-type: smwdb
-   pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsge9Oi7pqFM0mKc6UcjKpr
-   pl-src: raolists
 
  - name: Notte Luminosa
    link: http://smwdb.me/db/a/a67800f4f1033cc27b21df2864be47dd8a04fcee/
@@ -1547,9 +1514,6 @@
  - name: Copy Kitty (Cirnya Levels)
    link: https://store.steampowered.com/app/349250/Copy_Kitty/
    link-type: steam
-   
-   start: 2013-02-05
-   
  
  - name: 3000 Leagues in Search of Bowser
    link: http://smwdb.me/db/2/281540f5cbd5e090a7cf2238f408f9cc72cec308/
@@ -1580,8 +1544,8 @@
    link-type: website
 
  - name: Takkoman - Kouzatsu World
-   link: https://store.steampowered.com/app/1732480/
-   link-type: steam
+   link: https://en.touhouwiki.net/wiki/Takkoman_-Kouzatsu_World-
+   link-type: wiki
 
  - name: Apocalypse of Foroze
    link: https://rpgmaker.net/games/2652/
@@ -1835,15 +1799,7 @@
 
  - name: Mario Gives Up 3
  - name: An Advent Christmas X Thing (Advent 2015)
- 
  - name: Guacamelee! Super Turbo Championship Edition
-   link: https://store.steampowered.com/app/275390/Guacamelee_Super_Turbo_Championship_Edition/
-   link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLoHMuuwqcNhojDkQkiQ8UK
-   pl-src: raocow
-   start: 2015-12-27
-   end: 2016-01-24
- 
  - name: Shattered Lands
  
  - name: VIP Mario 2 (HorikawaOtane Translation)
@@ -2058,12 +2014,7 @@
  - name: Mega Man X4
  - name: Wario Land II
  - name: Super Metroid B2-TW
- 
  - name: Cuphead
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKGWQ0lPebJBwPafZouLICc
-   pl-src: raocow
-   start: 2018-03-31
-   end: 2018-04-17
  
  - name: Rabi-Ribi
    link: https://store.steampowered.com/app/400910/RabiRibi/
@@ -2095,12 +2046,7 @@
    
    
  - name: Rockman.exe WS
- 
  - name: Hollow Knight
-   link: https://store.steampowered.com/app/367520/
-   link-type: steam
-   
- 
  - name: Mega Man Network Transmission
  - name: Mega Man Zero 2
  - name: Wario Land 3
@@ -2658,7 +2604,6 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ6fXp7YizzcynVfyYCwaa_
    pl-src: raocow
    start: 2020-12-13
-   end: 2021-02-25
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19595
  
  - name: Donkey Kong 3
@@ -2676,7 +2621,6 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_y_fNUYFZ6BuIm75LWVZV
    pl-src: raocow
    start: 2020-12-29
-   end: 2021-02-15
    thread: https://talkhaus.raocow.com/viewtopic.php?f=3&t=19710
 
  - name: Sonic 3D (Shockwave)
@@ -2976,7 +2920,6 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLos5Jr5tEDEhz-v08M-wxb
    pl-src: raocow
    start: 2021-09-02
-   end: 2021-09-24
 
  - name: "Sonic the Hedgehog: Chaos Crush"
    pl: https://www.youtube.com/watch?v=tCpsW87bbdE
@@ -3036,7 +2979,6 @@
    link: https://en.wikipedia.org/wiki/Sonic_and_the_Secret_Rings
    link-type: wiki
    start: 2021-09-30
-   end: 2022-01-17
    
  - name: Invincible Explosion Bangai-O
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKOR9SErQYcdT7TB3YR0n-N
@@ -3052,430 +2994,4 @@
    link: https://store.steampowered.com/app/242550/
    link-type: steam
    start: 2021-10-17
-   end: 2021-11-26
-   
- - name: Shadow the Hedgehog - Expert
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
-   pl-src: raocow
-   link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
-   link-type: wiki
-   start: 2021-10-21
-   end: 2021-11-12
- 
- - name: Popeye
-   pl: https://www.youtube.com/watch?v=n5hmhTkyPXY
-   pl-src: video
-   link: https://www.igdb.com/games/popeye
-   link-type: igdb
-   start: 2021-10-24
-   end: 2021-10-24
- 
- - name: Donkey Kong Country Returns
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3rJZolwX3nGr9IMUPEpJe
-   pl-src: raocow
-   link: https://www.igdb.com/games/donkey-kong-country-returns
-   link-type: igdb
-   start: 2021-10-25
-   end: 2021-12-16
-   
- 
- - name: Zool
-   pl: https://www.youtube.com/watch?v=k1wGtWw2tT0
-   pl-src: video
-   link: https://www.igdb.com/games/zool
-   link-type: igdb
-   start: 2021-11-13
-   end: 2021-11-13
-   
- - name: Tearaway Thomas
-   pl: https://www.youtube.com/watch?v=IfqkxkFpsgQ
-   pl-src: video
-   link: https://www.igdb.com/games/tearaway-thomas
-   link-type: igdb
-   start: 2021-11-14
-   end: 2021-11-14
-   
- - name: Action Pachio
-   pl: https://www.youtube.com/watch?v=x7sRqra5XYg
-   pl-src: video
-   link: https://www.igdb.com/games/action-pachio
-   link-type: igdb
-   start: 2021-11-15
-   end: 2021-11-15
- 
- - name: Bubsy
-   pl: https://www.youtube.com/watch?v=Hlz2QOzhKTc
-   pl-src: video
-   link: https://www.igdb.com/games/bubsy-in-claws-encounters-of-the-furred-kind
-   link-type: igdb
-   start: 2021-11-16
-   end: 2021-11-16
- 
- - name: High Seas Havoc
-   pl: https://www.youtube.com/watch?v=KPS_9j-WO2U
-   pl-src: video
-   link: https://www.igdb.com/games/high-seas-havoc
-   link-type: igdb
-   start: 2021-11-17
-   end: 2021-11-17
- 
- - name: Oscar
-   pl: https://www.youtube.com/watch?v=PHdg01oI5Rc
-   pl-src: video
-   link: https://www.igdb.com/games/oscar
-   link-type: igdb
-   start: 2021-11-18
-   end: 2021-11-18
- 
- - name: Socket
-   pl: https://www.youtube.com/watch?v=VQayvVb7y3I
-   pl-src: video
-   link: https://www.igdb.com/games/socket
-   link-type: igdb
-   start: 2021-11-19
-   end: 2021-11-19
- 
- - name: Rocky Rodent
-   pl: https://www.youtube.com/watch?v=-po3FoZmJD8
-   pl-src: video
-   link: https://www.igdb.com/games/rocky-rodent
-   link-type: igdb
-   start: 2021-11-20
-   end: 2021-11-20
-
- - name: "Awesome Possum Kicks Dr. Machino's Butt"
-   pl: https://www.youtube.com/watch?v=4mVx4Vh3DMU
-   pl-src: video
-   link: https://www.igdb.com/games/awesome-possum-kicks-dr-machinos-butt
-   link-type: igdb
-   start: 2021-11-21
-   end: 2021-11-21
- 
- - name: Ardy Lightfoot
-   pl: https://www.youtube.com/watch?v=MQufdHEcduA
-   pl-src: video
-   link: https://www.igdb.com/games/ardy-lightfoot
-   link-type: igdb
-   start: 2021-11-22
-   end: 2021-11-22
- 
- - name: Mayhem in Monsterland
-   pl: https://www.youtube.com/watch?v=1GdX7QBjCiE
-   pl-src: video
-   link: https://www.igdb.com/games/mayhem-in-monsterland
-   link-type: igdb
-   start: 2021-11-23
-   end: 2021-11-23
- 
- - name: Kid Chaos
-   pl: https://www.youtube.com/watch?v=ZgpZVPSGGbM
-   pl-src: video
-   link: https://www.igdb.com/games/kid-chaos
-   link-type: igdb
-   start: 2021-11-24
-   end: 2021-11-24
-   
- - name: Jazz Jackrabbit
-   pl: https://www.youtube.com/watch?v=NSE32wONpKU
-   pl-src: video
-   link: https://www.igdb.com/games/jazz-jackrabbit
-   link-type: igdb
-   start: 2021-11-25
-   end: 2021-11-25
- 
- - name: Sparkster
-   pl: https://www.youtube.com/watch?v=eBqdfqxfvAE
-   pl-src: video
-   link: https://www.igdb.com/games/sparkster
-   link-type: igdb
-   start: 2021-11-26
-   end: 2021-11-26
- 
- - name: "Spyro 2: Ripto's Rage!"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIB2qcIyaFBOHAyGvXSp8de
-   pl-src: raocow
-   link: https://www.igdb.com/games/spyro-2-ripto-s-rage
-   link-type: igdb
-   start: 2021-11-27
-   end: 2021-12-25
- 
- - name: Radical Rex
-   pl: https://www.youtube.com/watch?v=2Xoxa2J4KVQ
-   pl-src: video
-   link: https://www.igdb.com/games/radical-rex
-   link-type: igdb
-   start: 2021-11-27
-   end: 2021-11-27
- 
- - name: Bug!
-   pl: https://www.youtube.com/watch?v=0L9HJA0UacE
-   pl-src: video
-   link: https://www.igdb.com/games/bug
-   link-type: igdb
-   start: 2021-11-28
-   end: 2021-11-28
- 
- - name: Mohawk & Headphone Jack
-   pl: https://www.youtube.com/watch?v=G7SYK17w9XA
-   pl-src: video
-   link: https://www.igdb.com/games/mohawk-and-headphone-jack
-   link-type: igdb
-   start: 2021-11-29
-   end: 2021-11-29
- 
- - name: Advent 2021
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIQSDmymsDAA1weCai63nwX
-   pl-src: raocow
-   
-   start: 2021-11-30
-   end: 2021-12-26
- 
- 
- - name: Punky Skunk
-   pl: https://www.youtube.com/watch?v=cCj2151HGU0
-   pl-src: video
-   link: https://www.igdb.com/games/punky-skunk
-   link-type: igdb
-   start: 2021-11-30
-   end: 2021-11-30
-   
- - name: Make a Good Level 4
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIjHCEOnWWoPZrqeVR_KVcd
-   pl-src: raocow
-   
-   start: 2021-12-17
-   end: 2022-01-08
- 
- - name: The Lost Vikings
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL6ZVME654zUFdxRhQJrA9q
-   pl-src: raocow
-   link: https://www.igdb.com/games/the-lost-vikings
-   link-type: igdb
-   start: 2021-12-26
-   end: 2022-01-18
- 
- - name: Ducktales
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJjCN0T3vxq4pcIEI_mXHGz
-   pl-src: raocow   
-   link: https://www.igdb.com/games/ducktales
-   link-type: igdb
-   start: 2021-12-27
-   end: 2021-12-31
-   
- - name: Rockman 7 EP
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_DoISfkukq_WF8KAsUOtq
-   pl-src: raocow
-   link: https://www.romhacking.net/hacks/5502/
-   link-type: website
-   start: 2022-01-09
-   end: 2022-01-21
-   
- - name: "Sonic and the Secret Rings: Party Mode"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJuiUbZ1kFGcAjfwDJSMont
-   pl-src: raocow
-   link: https://www.igdb.com/games/sonic-and-the-secret-rings
-   link-type: igdb
-   start: 2022-01-18
- 
- - name: Ape Out
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLMaW8XF2PmMnq1nYlk_uu7
-   pl-src: raocow
-   link: https://store.steampowered.com/app/447150/
-   link-type: steam
-   start: 2022-01-19
-   end: 2022-01-27
- 
- - name: Furi
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL0T0qhgRmOCZ6_az29_z3s
-   pl-src: raocow
-   link: https://store.steampowered.com/app/423230/
-   link-type: steam
-   start: 2022-01-22
-   end: 2022-02-01
-
- - name: MegaMan X DiVE
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ9hfDYl5X7ZLNf2JvNSAYk
-   pl-src: raocow
-   link: https://www.igdb.com/games/mega-man-x-dive
-   link-type: igdb
-   start: 2022-01-24
-   end: 2022-01-25
-   
- - name: Sonic the Hedgehog 10 Repeater
-   pl: https://www.youtube.com/watch?v=4sjv_7-FDUE
-   pl-src: video
-   start: 2022-01-26
-   end: 2022-01-26
- 
- - name: Sonic Maze Craze
-   pl: https://www.youtube.com/watch?v=yMdVm0re_Zg
-   pl-src: video
-   start: 2022-01-27
-   end: 2022-01-27
- 
- - name: Pikmin
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIHzCucqPJS6rxNz_aYf_jK
-   pl-src: raocow
-   link: https://www.igdb.com/games/pikmin
-   link-type: igdb
-   start: 2022-01-28
-   end: 2022-02-20
- 
- - name: Sonic Jump (2007)
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJYtj5WWxAVtAD_VgrSwkHv 
-   pl-src: raocow
-   
-   start: 2022-01-28
-   end: 2022-02-03
- 
- - name: Furier
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL0T0qhgRmOCZ6_az29_z3s
-   pl-src: raocow
-   link: https://store.steampowered.com/app/423230/Furi/
-   link-type: steam
- 
- - name: Sonic the Hedgehog Golf (2007)
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKr3CVYAmx10ebqbkF_Q4d9
-   pl-src: raocow
-   start: 2022-02-04
-   end: 2022-02-06
- 
- - name: Sonic Rush Adventure Flash
-
- - name: Sonic Rush Adventure
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIKxmA13UqTRnND1z5vYlxQ
-   pl-src: raocow
-   link: https://www.igdb.com/games/sonic-rush-adventure
-   link-type: igdb
-   start: 2022-02-08
-   end: 2022-02-28
-   
- - name: MegaMan 2.5D 
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJBh9HjrsJqi2P91-p_tIpZ
-   pl-src: raocow
-   start: 2022-02-20
-   end: 2022-03-07
- 
- - name: Crystal Castles
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKpOXRs95f6GrJoDwfxFC50
-   pl-src: raocow
-   link: https://www.igdb.com/games/crystal-castles
-   link-type: igdb
-   start: 2022-02-22
-   end: 2022-03-20
- 
- - name: Banjo-Kazooie
-
-   link: https://www.igdb.com/games/banjo-kazooie
-   link-type: igdb   
-  
- - name: "Mario & Sonic at the Olympic Games"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIYigaCTKAsEkAbw3YNYpHJ
-   pl-src: raocow
-   start: 2022-03-01
-   end: 2022-03-09
- 
- - name: Killer7
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKDHGWzfBHG8HqhTDRcwiHB
-   pl-src: raocow
-   start: 2022-03-08
-   end: 2022-04-12
- 
- - name: Sonic Rivals 2
-   pl: https://www.youtube.com/watch?v=O_p6wFTXH50&list=PLQhrpbbm5TDL_9Fe47awaRhZoD9v91XbL&index=16
-   pl-src: raocow
-   start: 2022-03-10
-   end: 2022-04-03
- 
- - name: "Touhou Goukyou Ibun ~ Suibotsushita Chinshuu Jigoku"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJTdRTyHfaeIjV5vu9xuPq7
-   pl-src: raocow
-   start: 2022-03-21
-   end: 2022-04-29
- 
- - name: "Sonic Riders: Zero Gravity"
-   pl: https://www.youtube.com/watch?v=48z2x1SEiBY&list=PLQhrpbbm5TDJ5aNnwGYO7wHIZ8Ae069xE&index=17
-   pl-src: raocow
-   start: 2022-04-04
- 
- - name: Sonic the Hedgehog 2 Obby
- 
- - name: Outer Wilds
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2JmpE0VL4GpR6W-nR_OsX
-   pl-src: raocow
-   start: 2022-04-13
-   end: 2022-06-09
-   
- - name: Tetris
- 
- - name: "lakitu's great adventure"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJlOshOtFsP-TTeTx9OphsR
-   pl-src: raocow
-   start: 2022-04-21
-   end: 2022-04-25
- 
- - name: "Kirby's Dream Land (Extra Mode)"
-   pl: https://www.youtube.com/watch?v=NVehe_OPRos&list=PLQhrpbbm5TDL06CBGunywOxF7Zm1R1Yh5&index=2
-   pl-src: raocow
-   start: 2022-04-21
-   end: 2022-04-25
- 
- - name: Mega Man Legends
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL1x2BtSpPQWJ9nTSvtJCm0
-   pl-src: raocow
-   start: 2022-04-30
-   end: 2022-05-25
- 
- - name: "Mario & Sonic at the Olympic Games (DS)"
-   pl: https://www.youtube.com/watch?v=SkewK0YS0C4&list=PLQhrpbbm5TDIYigaCTKAsEkAbw3YNYpHJ&index=10
-   pl-src: raocow
-   start: 2022-04-30
-   end: 2022-05-08
- 
- - name: "Sonic the Hedgehog (SEGA Superstars Tennis)"
- 
- - name: "Sonic 2 Dash!"
- 
- - name: "Sonic at the Olympic Games"
-   pl: https://www.youtube.com/watch?v=a0xjVHBJU5I
-   pl-type: video
-   start: 2022-05-08
-   end: 2022-05-08
- 
- - name: "Sonic the Hedgehog (Didj)"
- 
- - name: "Sonic Chronicles: The Dark Brotherhood (DS)"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIlOm2SVvju92L9b3KNDic4
-   pl-src: raocow
-   start: 2022-05-13
-   end: 2022-06-18
- 
- - name: "Toree 3D"
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIkc1xegNtv2ZmPYffgUP7k
-   pl-src: raocow
-   start: 2022-05-26
-   end: 2022-05-28
-
- - name: "Toree Jumbled Jam"
-
- - name: "Toree 2"
-
- - name: "rakugaki mario"
-
- - name: "Skullmonkeys"
-
- - name: "Sonic X Speed Spotter"
-
- - name: "Sonic Unleashed (Dimps)"
-
- - name: "Toree Genesis"
-
- - name: "Guacamelee! 2"
-   link: https://store.steampowered.com/app/534550/Guacamelee_2/
-   link-type: steam
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIMDX8cvZ7h9mAPw1e6dP51
-   pl-src: raocow
-   start: 2022-06-28
-
-   
 ...
