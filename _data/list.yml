@@ -2060,6 +2060,8 @@
  - name: Super Metroid B2-TW
  
  - name: Cuphead
+   link: https://store.steampowered.com/app/268910/Cuphead/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKGWQ0lPebJBwPafZouLICc
    pl-src: raocow
    start: 2018-03-31
@@ -3276,6 +3278,7 @@
    link: https://www.igdb.com/games/sonic-and-the-secret-rings
    link-type: igdb
    start: 2022-01-18
+   end: 2022-01-23
  
  - name: Ape Out
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLMaW8XF2PmMnq1nYlk_uu7
@@ -3324,7 +3327,6 @@
  - name: Sonic Jump (2007)
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJYtj5WWxAVtAD_VgrSwkHv 
    pl-src: raocow
-   
    start: 2022-01-28
    end: 2022-02-03
  
@@ -3333,6 +3335,8 @@
    pl-src: raocow
    link: https://store.steampowered.com/app/423230/Furi/
    link-type: steam
+   start: 2022-02-02
+   end: 2022-02-19
  
  - name: Sonic the Hedgehog Golf (2007)
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKr3CVYAmx10ebqbkF_Q4d9
@@ -3341,6 +3345,10 @@
    end: 2022-02-06
  
  - name: Sonic Rush Adventure Flash
+   pl: https://www.youtube.com/watch?v=-quav5IhFec
+   pl-src: video
+   start: 2022-02-07
+   end: 2022-02-07
 
  - name: Sonic Rush Adventure
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIKxmA13UqTRnND1z5vYlxQ
@@ -3365,9 +3373,12 @@
    end: 2022-03-20
  
  - name: Banjo-Kazooie
-
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKpOXRs95f6GrJoDwfxFC50
+   pl-src: raocow
    link: https://www.igdb.com/games/banjo-kazooie
-   link-type: igdb   
+   link-type: igdb
+   start: 2022-02-22
+   end: 2022-03-20   
   
  - name: "Mario & Sonic at the Olympic Games"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIYigaCTKAsEkAbw3YNYpHJ
@@ -3397,8 +3408,13 @@
    pl: https://www.youtube.com/watch?v=48z2x1SEiBY&list=PLQhrpbbm5TDJ5aNnwGYO7wHIZ8Ae069xE&index=17
    pl-src: raocow
    start: 2022-04-04
+   end: 2022-04-29
  
  - name: Sonic the Hedgehog 2 Obby
+   pl: https://www.youtube.com/watch?v=dpzAtNd8Nhs
+   pl-src: video
+   start: 2022-04-06
+   end: 2022-04-06
  
  - name: Outer Wilds
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2JmpE0VL4GpR6W-nR_OsX
@@ -3407,6 +3423,10 @@
    end: 2022-06-09
    
  - name: Tetris
+   pl: https://www.youtube.com/watch?v=dq7akx1_bzM
+   pl-src: video
+   start: 2022-04-20
+   end: 2022-04-20
  
  - name: "lakitu's great adventure"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJlOshOtFsP-TTeTx9OphsR
@@ -3433,16 +3453,28 @@
    end: 2022-05-08
  
  - name: "Sonic the Hedgehog (SEGA Superstars Tennis)"
+   pl: https://www.youtube.com/watch?v=Bfe5Ok1l7Fk
+   pl-src: video
+   start: 2022-05-09
+   end: 2022-05-09
  
  - name: "Sonic 2 Dash!"
+   pl: https://www.youtube.com/watch?v=yZRdCw7vDjc
+   pl-src: video
+   start: 2022-05-10
+   end: 2022-05-10
  
  - name: "Sonic at the Olympic Games"
    pl: https://www.youtube.com/watch?v=a0xjVHBJU5I
-   pl-type: video
+   pl-src: video
    start: 2022-05-08
    end: 2022-05-08
  
  - name: "Sonic the Hedgehog (Didj)"
+   pl: https://www.youtube.com/watch?v=41ICAQu_a_M
+   pl-src: video
+   start: 2022-05-12
+   end: 2022-05-12
  
  - name: "Sonic Chronicles: The Dark Brotherhood (DS)"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIlOm2SVvju92L9b3KNDic4
@@ -3457,18 +3489,44 @@
    end: 2022-05-28
 
  - name: "Toree Jumbled Jam"
+   pl: https://www.youtube.com/watch?v=qrFhbDdhkqw&list=PLQhrpbbm5TDIkc1xegNtv2ZmPYffgUP7k&index=4
+   pl-src: raocow
+   start: 2022-05-29
+   end: 2022-05-31
 
  - name: "Toree 2"
+   pl: https://www.youtube.com/watch?v=XTuyT0iwrG0&list=PLQhrpbbm5TDIkc1xegNtv2ZmPYffgUP7k&index=7
+   pl-src: raocow
+   start: 2022-06-01
+   end: 2022-06-06
 
  - name: "rakugaki mario"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK6n9dOevys0U_vD9r7rziB
+   pl-src: raocow
+   start: 2022-06-07
 
  - name: "Skullmonkeys"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLnk__SIfep17sjUiz3JAtE
+   pl-src: raocow
+   start: 2022-06-10
+   end: 2022-06-26
 
  - name: "Sonic X Speed Spotter"
+   pl: https://www.youtube.com/watch?v=Sa4Cgk7JgUo
+   pl-src: raocow
+   start: 2022-05-19   
+   end: 2022-05-19   
 
  - name: "Sonic Unleashed (Dimps)"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_UHLMGwy4K-7WV8mDk5yH
+   pl-src: raocow
+   start: 2022-06-20
 
  - name: "Toree Genesis"
+   pl: https://www.youtube.com/watch?v=L-V7voNLbwU
+   pl-src: video
+   start: 2022-06-27
+   end: 2022-06-27
 
  - name: "Guacamelee! 2"
    link: https://store.steampowered.com/app/534550/Guacamelee_2/
