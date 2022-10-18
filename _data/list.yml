@@ -75,7 +75,7 @@
    pl-src: raolists
  
  - name: Mario's Return
-   link: https://www.smwcentral.net/?p=section&a=details&id=19903
+   link: http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/
    link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuf4_8wntGgNwQ0IP4BU0j-
    pl-src: raolists
@@ -115,9 +115,8 @@
    link-type: smwc
    
  - name: Luigi's Adventure
-   archival-link: http://smwdb.me/db/0/0058abea67256b1aad68e836cfa46015d2fdce53/
-   link: https://www.smwcentral.net/?p=section&a=details&id=27152
-   link-type: smwc
+   link: http://smwdb.me/db/0/0058abea67256b1aad68e836cfa46015d2fdce53/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDtHJD0_YFy8UU--sK2vxxl8
    pl-src: raolists
  
@@ -164,9 +163,8 @@
    pl-src: raolists
  
  - name: The Second Reality Project Reloaded
-   link: https://www.smwcentral.net/?p=section&a=details&id=16696
-   link-type: smwc
-   archival-link: http://www.fpi-productions.de/tsrp.html
+   link: http://www.fpi-productions.de/tsrp.html
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDsSCtpvsAKRqBtgnkqneeDz
    pl-src: raolists
    end: 2008–09–07
@@ -198,9 +196,8 @@
    end: 2008-12-29
    
  - name: Mario's Misadventure
-   archival-link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
-   link: https://www.smwcentral.net/?p=section&a=details&id=15802
-   link-type: smwc
+   link: http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDslb2IsDh_v-zkdT4GMctkz
    pl-src: raolists
    start: 2008-11-29
@@ -239,9 +236,8 @@
    end: 2009-03-01
    
  - name: Rise to the Challenge
-   archival-link: http://smwdb.me/db/4/42036589fa6e0dfdac65a998c5e3cc2cfad88228/
-   link: https://www.smwcentral.net/?p=section&a=details&id=9029
-   link-type: smwc
+   link: http://smwdb.me/db/4/42036589fa6e0dfdac65a998c5e3cc2cfad88228/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PL197EE97FAF0C7C35
    pl-src: raocow
    start: 2009-02-27
@@ -296,9 +292,8 @@
    end: 2009-06-06
  
  - name: World of Illusion
-   archival-link: http://smwdb.me/db/e/eb9391358c16094cba06b3bd0839bef8875eb5c6/
-   link: https://www.smwcentral.net/?p=section&a=details&id=4980
-   link-type: smwc
+   link: http://smwdb.me/db/e/eb9391358c16094cba06b3bd0839bef8875eb5c6/
+   link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDvVXJjZOPe4iemFyXJE9NuP
    pl-src: raolists
    start: 2009-06-07
@@ -3498,8 +3493,6 @@
    end: 2022-05-28
 
  - name: "Toree Jumbled Jam"
-   link: https://siactro.itch.io/toree-3d-jumbled-jam
-   link-type: itch
    pl: https://www.youtube.com/watch?v=qrFhbDdhkqw&list=PLQhrpbbm5TDIkc1xegNtv2ZmPYffgUP7k&index=4
    pl-src: raocow
    start: 2022-05-29
@@ -3544,8 +3537,6 @@
    end: 2022-08-07
 
  - name: "Toree Genesis"
-   link: https://siactro.itch.io/toree-genesis
-   link-type: itch
    pl: https://www.youtube.com/watch?v=L-V7voNLbwU
    pl-src: video
    start: 2022-06-27
@@ -3573,7 +3564,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLjdjv7cQYNF5fYlXV_OtpB
    pl-src: raocow
    start: 2022-08-02
-   end: 2022-08-24
+   end: 2022-09-24
 
  - name: "Momodora: Reverie Under the Moonlight"
    link: https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/
@@ -3589,6 +3580,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ_UHLMGwy4K-7WV8mDk5yH
    pl-src: raocow
    start: 2022-08-08
+   end: 2022-10-13
 
  - name: "Hotline Miami"
    link: https://store.steampowered.com/app/219150/Hotline_Miami/
@@ -3605,11 +3597,39 @@
    pl-src: raocow
    start: 2022-09-05
    end: 2022-09-24
-
+   
  - name: "Super Mario Galaxy"
    link: https://www.igdb.com/games/super-mario-galaxy
    link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKpx2i6rOgFM_RYJke6L8Li
    pl-src: raocow
    start: 2022-09-25
+   
+ - name: "A Hole New World"
+   link: https://store.steampowered.com/app/434160/A_Hole_New_World/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLeREtnCIzDQr5Rru_BV9xp
+   pl-src: raocow
+   start: 2022-09-25
+   end: 2022-09-30
+   
+ - name: "Jumping Flash!"
+   link: https://www.igdb.com/games/jumping-flash
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ8fsLq7Aho2Md4cAQEHQ9K
+   pl-src: raocow
+   start: 2022-10-01
+   end: 2022-10-12
+   
+ - name: "Copy Kitty HARD"
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIHPXACv8MEdCM4CIchD2Vn
+   pl-src: raocow
+   start: 2022-10-13
+   
+ - name: "McDonald's LCD SEGA Games"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL77Tj9OPolASZAs48rHFGz
+   pl-src: raocow
+   start: 2022-10-14
 ...
