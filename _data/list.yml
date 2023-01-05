@@ -1681,8 +1681,12 @@
    link-type: steam
 
  - name: Superb Demo Sisters
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLmeJxeErnpCZeN0SccM8jm
+   pl-src: raocow
    link: https://talkhaus.raocow.com/viewtopic.php?f=47&t=15054
    link-type: website
+   start: 2014-11-02
+   end: 2014-11-09
 
  - name: Something Else
    link: https://www.smwcentral.net/?p=section&a=details&id=6304
@@ -2796,20 +2800,22 @@
    end: 2021-02-20
 
  - name: Sonic X (Leapster)
+ 
    link: https://en.wikipedia.org/wiki/Leapster
    link-type: wiki
    start: 2021-02-21
    end: 2021-02-21
 
  - name: Sonic the Broad Jump
+ 
    pl: https://www.youtube.com/watch?v=TdwCktvM2IQ
    pl-src: video
    start: 2021-02-22
    end: 2021-02-22
 
  - name: Shadow the Hedgehog
-   link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
-   link-type: wiki
+   link: https://www.igdb.com/games/shadow-the-hedgehog
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
    pl-src: raocow
    start: 2021-02-23
@@ -2832,8 +2838,8 @@
    end: 2021-03-29
 
  - name: Evil Zone
-   link: https://en.wikipedia.org/wiki/Evil_Zone
-   link-type: wiki
+   link: https://www.igdb.com/games/evil-zone
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL3hHpBD9AMhH_DTodua3i5
    pl-src: raocow
    start: 2021-03-30
@@ -2854,16 +2860,16 @@
    end: 2021-08-07
 
  - name: Zwei!! The Arges Adventure
-   link: https://en.wikipedia.org/wiki/Zwei:_The_Arges_Adventure
-   link-type: wiki
+   link: https://www.igdb.com/games/zwei
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI_zh6NyotJkh2eFkwJi4K7
    pl-src: raocow
    start: 2021-04-16
    end: 2021-05-28
 
  - name: Sonic Rush
-   link: https://en.wikipedia.org/wiki/Sonic_Rush
-   link-type: wiki
+   link: https://www.igdb.com/games/sonic-rush
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKeokpAeN6ZsSLCUo4jF_zN
    pl-src: raocow
    start: 2021-05-02
@@ -2899,8 +2905,8 @@
    end: 2021-06-27
 
  - name: Sonic the Hedgehog (2006)
-   link: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(2006_video_game)
-   link-type: wiki
+   link: https://www.igdb.com/games/sonic-the-hedgehog-473de878-5a9f-402e-a282-86a7460fc1d2
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
    pl-src: raocow
    start: 2021-06-09
@@ -2908,37 +2914,39 @@
 
  - name: Yoku's Island Express
    link: https://store.steampowered.com/app/334940/Yokus_Island_Express/
-   link-type: wiki
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIURIduMHqc1hHwKoetlkTz
    pl-src: raocow
    start: 2021-06-28
    end: 2021-07-13
 
  - name: Star Fox 64
-   link: https://en.wikipedia.org/wiki/Star_Fox_64
-   link-type: wiki
+   link: https://www.igdb.com/games/star-fox-64
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLfj9I0MvNoDOCcUy75fHrb
    pl-src: raocow
    start: 2021-07-14
    end: 2021-08-02
 
  - name: Ghost Trick
-   link: https://en.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective
-   link-type: wiki
+   link: https://www.igdb.com/games/ghost-trick-phantom-detective
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLFmz2y8dhahmaR7ZHnpi2J
    pl-src: raocow
    start: 2021-08-03
    end: 2021-09-01
 
  - name: Spyro the Dragon
-   link: https://en.wikipedia.org/wiki/Spyro_the_Dragon
-   link-type: wiki
+   link: https://www.igdb.com/games/spyro-the-dragon
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2BZ3VmZG_QV6tNMZuF_mA
    pl-src: raocow
    start: 2021-08-08
    end: 2021-09-01
 
  - name: Christmas NiGHTS Into Dreams
+   link: https://www.igdb.com/games/christmas-nights-into-dreams
+   link-type: igdb
    pl: https://www.youtube.com/watch?v=dxaLdsFiEPI
    pl-src: video
    start: 2021-08-10
@@ -2951,14 +2959,16 @@
    end: 2021-08-11
 
  - name: Sonic the Hedgehog Genesis (Game Boy Advance)
+   link: https://www.igdb.com/games/sonic-the-hedgehog-genesis
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIGbsEzX49TihddXONDAqj6
    pl-src: raocow
    start: 2021-08-12
    end: 2021-08-18
 
  - name: Sonic Rivals
-   link: https://en.wikipedia.org/wiki/Sonic_Rivals
-   link-type: wiki
+   link: https://www.igdb.com/games/sonic-rivals
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL_9Fe47awaRhZoD9v91XbL
    pl-src: raocow
    start: 2021-08-19
@@ -2999,12 +3009,16 @@
    end: 2021-09-05
    
  - name: "Sonic '06 Very Hard DLC"
+   link: https://www.igdb.com/games/sonic-the-hedgehog-473de878-5a9f-402e-a282-86a7460fc1d2
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK9jxsAolcvwNY8O1IjQ2iO
    pl-src: raocow
    start: 2021-09-06
    end: 2021-09-27
    
  - name: Kirby's Dream Course
+   link: https://www.igdb.com/games/kirby-s-dream-course
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI1XPNJ4oE2CCBbGrbLTWK0
    pl-src: raocow
    start: 2021-09-21
@@ -3033,34 +3047,34 @@
    end: 2021-09-29
    
  - name: Sonic and the Secret Rings
+   link: https://www.igdb.com/games/sonic-and-the-secret-rings
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJuiUbZ1kFGcAjfwDJSMont
    pl-src: raocow
-   link: https://en.wikipedia.org/wiki/Sonic_and_the_Secret_Rings
-   link-type: wiki
    start: 2021-09-30
    end: 2022-01-17
    
  - name: Invincible Explosion Bangai-O
+   link: https://www.igdb.com/games/bakuretsu-muteki-bangai-o
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKOR9SErQYcdT7TB3YR0n-N
    pl-src: raocow
-   link: https://en.wikipedia.org/wiki/Bangai-O
-   link-type: wiki
    start: 2021-10-07
    end: 2021-10-23
    
  - name: Rayman Legends
-   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIi5-BaztGqpI8ybBUG-Dfc
-   pl-src: raocow
    link: https://store.steampowered.com/app/242550/
    link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIi5-BaztGqpI8ybBUG-Dfc
+   pl-src: raocow
    start: 2021-10-17
    end: 2021-11-26
    
  - name: Shadow the Hedgehog - Expert
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKutRQnAs8TNxmuBZ2XbbGa
    pl-src: raocow
-   link: https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)
-   link-type: wiki
+   link: https://www.igdb.com/games/shadow-the-hedgehog
+   link-type: igdb
    start: 2021-10-21
    end: 2021-11-12
  
@@ -3383,30 +3397,40 @@
  - name: "Mario & Sonic at the Olympic Games"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIYigaCTKAsEkAbw3YNYpHJ
    pl-src: raocow
+   link: https://www.igdb.com/games/mario-and-sonic-at-the-olympic-games
+   link-type: igdb
    start: 2022-03-01
    end: 2022-03-09
  
  - name: Killer7
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKDHGWzfBHG8HqhTDRcwiHB
    pl-src: raocow
+   link: https://www.igdb.com/games/killer7
+   link-type: igdb
    start: 2022-03-08
    end: 2022-04-12
  
  - name: Sonic Rivals 2
    pl: https://www.youtube.com/watch?v=O_p6wFTXH50&list=PLQhrpbbm5TDL_9Fe47awaRhZoD9v91XbL&index=16
    pl-src: raocow
+   link: https://www.igdb.com/games/sonic-rivals-2
+   link-type: igdb
    start: 2022-03-10
    end: 2022-04-03
  
  - name: "Touhou Goukyou Ibun ~ Suibotsushita Chinshuu Jigoku"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJTdRTyHfaeIjV5vu9xuPq7
    pl-src: raocow
+   link: https://store.steampowered.com/app/1440500/
+   link-type: steam
    start: 2022-03-21
    end: 2022-04-29
  
  - name: "Sonic Riders: Zero Gravity"
    pl: https://www.youtube.com/watch?v=48z2x1SEiBY&list=PLQhrpbbm5TDJ5aNnwGYO7wHIZ8Ae069xE&index=17
    pl-src: raocow
+   link: https://www.igdb.com/games/sonic-riders-zero-gravity
+   link-type: igdb
    start: 2022-04-04
    end: 2022-04-29
  
@@ -3417,36 +3441,48 @@
    end: 2022-04-06
  
  - name: Outer Wilds
+   link: https://store.steampowered.com/app/753640/Outer_Wilds/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL2JmpE0VL4GpR6W-nR_OsX
    pl-src: raocow
    start: 2022-04-13
    end: 2022-06-09
    
  - name: Tetris
+   link: https://www.igdb.com/games/tetris--1
+   link-type: igdb
    pl: https://www.youtube.com/watch?v=dq7akx1_bzM
    pl-src: video
    start: 2022-04-20
    end: 2022-04-20
  
  - name: "lakitu's great adventure"
+   link: https://www.smwcentral.net/?p=section&a=details&id=31073
+   link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJlOshOtFsP-TTeTx9OphsR
    pl-src: raocow
    start: 2022-04-21
    end: 2022-04-25
  
  - name: "Kirby's Dream Land (Extra Mode)"
+   link: https://www.igdb.com/games/kirby-s-dream-land
+   link-type: igdb
    pl: https://www.youtube.com/watch?v=NVehe_OPRos&list=PLQhrpbbm5TDL06CBGunywOxF7Zm1R1Yh5&index=2
    pl-src: raocow
    start: 2022-04-21
    end: 2022-04-25
  
  - name: Mega Man Legends
+   link: https://www.igdb.com/games/mega-man-legends
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL1x2BtSpPQWJ9nTSvtJCm0
    pl-src: raocow
    start: 2022-04-30
    end: 2022-05-25
  
  - name: "Mario & Sonic at the Olympic Games (DS)"
+   link: https://www.igdb.com/games/mario-and-sonic-at-the-olympic-games--1
+   link-type: igdb
    pl: https://www.youtube.com/watch?v=SkewK0YS0C4&list=PLQhrpbbm5TDIYigaCTKAsEkAbw3YNYpHJ&index=10
    pl-src: raocow
    start: 2022-04-30
@@ -3465,6 +3501,8 @@
    end: 2022-05-10
  
  - name: "Sonic at the Olympic Games"
+   link: https://www.igdb.com/games/sonic-at-the-olympic-games
+   link-type: igdb
    pl: https://www.youtube.com/watch?v=a0xjVHBJU5I
    pl-src: video
    start: 2022-05-08
@@ -3493,6 +3531,8 @@
    end: 2022-05-28
 
  - name: "Toree Jumbled Jam"
+   link: https://siactro.itch.io/toree-3d-jumbled-jam
+   link-type: itch
    pl: https://www.youtube.com/watch?v=qrFhbDdhkqw&list=PLQhrpbbm5TDIkc1xegNtv2ZmPYffgUP7k&index=4
    pl-src: raocow
    start: 2022-05-29
@@ -3537,6 +3577,8 @@
    end: 2022-08-07
 
  - name: "Toree Genesis"
+   link: https://siactro.itch.io/toree-genesis
+   link-type: itch
    pl: https://www.youtube.com/watch?v=L-V7voNLbwU
    pl-src: video
    start: 2022-06-27
@@ -3604,6 +3646,8 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKpx2i6rOgFM_RYJke6L8Li
    pl-src: raocow
    start: 2022-09-25
+   end: 2022-11-21
+   
    
  - name: "A Hole New World"
    link: https://store.steampowered.com/app/434160/A_Hole_New_World/
@@ -3632,4 +3676,35 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDL77Tj9OPolASZAs48rHFGz
    pl-src: raocow
    start: 2022-10-14
+   end: 2022-10-29
+   
+ - name: "Mega Man Powered Up: Online Downloadable Levels"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDI1NxvaDTQo0EKt_7rpU1mm
+   pl-src: raocow
+   start: 2022-10-30
+   
+ - name: "A Hat in Time: Death Wish"
+   link: https://store.steampowered.com/app/253230/A_Hat_in_Time/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLT4UC-nPkBacGdHMK2kG_W
+   pl-src: raocow
+   start: 2022-11-22
+ 
+ - name: "Advent Christmas Classic"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKTI-thb2RW-zFgM-W1-uv1
+   pl-src: raocow
+   start: 2022-11-29
+   end: 2022-12-26
+ 
+ - name: "Adventure Island"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJfYpH1ROOkdbjF1T6x1CTH
+   pl-src: raocow
+   start: 2022-12-02
+   end: 2022-12-12
+ 
+ - name: "The Whole Game is Postgame"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJSY51NdhuMhdPd3e-cJ32Q
+   pl-src: raocow
+   start: 2022-12-10
+   end: 2022-12-19
 ...
