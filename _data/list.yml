@@ -3707,4 +3707,85 @@
    pl-src: raocow
    start: 2022-12-10
    end: 2022-12-19
+   
+ - name: "Sonic 2 CRASH!"
+
+ - name: "Sonic and the Black Knight: Knight in Training"
+
+ - name: "Sonic and the Black Knight"
+
+ - name: "Copy Kitty Boss Rush"
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+   
+ - name: "Copy Kitty Lost Levels"
+   link: https://store.steampowered.com/app/349250/Copy_Kitty/
+   link-type: steam
+   
+ - name: "Fragile Dreams: Farewell Ruins of the Moon"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJcTA-FURcQLfholQj9SLwY
+   pl-src: raocow
+   start: 2023-01-24
+   end: 2023-02-19
+
+ - name: "Rockman Dash 2 Episode 1: Roll-chan Kiki Ippatsu no Maki"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK0iPHqo85Kc-v86OHGdOjX
+   pl-src: raocow
+   start: 2023-01-29
+   end: 2023-01-30
+
+ - name: "Mega Man Legends 2"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDK0iPHqo85Kc-v86OHGdOjX
+   pl-src: raocow
+   start: 2023-01-31
+   end: 2023-03-12
+
+ - name: "Sonic Unleashed (Gameloft)"
+
+ - name: "Mario & Sonic at the Olympic Winter Games (Wii)"
+
+ - name: "The Messenger"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIaK7a0afBwYegRo9mCgCZm
+   pl-src: raocow
+   start: 2023-02-21
+   end: 2023-03-23
+
+ - name: "Superb Demo Survivors"
+   pl: https://www.youtube.com/watch?v=TReAG81XkEE
+   pl-src: video
+   start: 2023-03-04
+   end: 2023-03-04
+
+ - name: "MegaMan 3 (Tiger Electronics)"
+   pl: https://www.youtube.com/watch?v=HYuDJ4a6UgE
+   pl-src: video
+   start: 2023-03-05
+   end: 2023-03-05
+
+ - name: "MegaMan X DLC (Minecraft)"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIPg6m1bqWL76hML5RBLDm-
+   pl-src: raocow
+   start: 2023-03-12
+   end: 2023-03-18
+
+ - name: "Paper Mario"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLcny_XRHaxV9DpMdVMPab_
+   pl-src: raocow
+   start: 2023-03-14
+   
+ - name: "Klonoa: Door to Phantomile"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLErmuVHgjwMgcLR8PvFmjh
+   pl-src: raocow
+   start: 2023-03-25
+   end: 2023-04-10
+   
+ - name: "Chocolate Level Design Contest 2020"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKSvpcxPzohbBPmpcN6p_LK
+   pl-src: raocow
+   start: 2023-04-09
+   
+ - name: "WarioWare, Inc.: Mega Microgame$!"
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIADiS1jnzMxItfmPigkKNJ
+   pl-src: raocow
+   start: 2023-04-12
 ...
