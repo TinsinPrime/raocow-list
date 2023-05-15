@@ -609,8 +609,8 @@
    end: 2010-08-07
  
  - name: Kirby's Dream Land 3
-   link: https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_3
-   link-type: wiki
+   link: https://www.igdb.com/games/kirby-s-dream-land-3
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIb5My4BPP2NQT9TrgOxYRU
    pl-src: raocow
    start: 2010-05-01
@@ -625,16 +625,16 @@
    end: 2010-06-20
  
  - name: Mega Man X - Intermission
-   link: https://en.wikipedia.org/wiki/Mega_Man_X
-   link-type: wiki
+   link: https://www.igdb.com/games/mega-man-x
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuYrLEdGsJWVDKH2qX9uH5m
    pl-src: raolists
    start: 2010-06-05
    end: 2010-06-09
    
  - name: Mega Man X2 - Intermission
-   link: https://en.wikipedia.org/wiki/Mega_Man_X2
-   link-type: wiki
+   link: https://www.igdb.com/games/mega-man-x2
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLgDMdsdtqKDuYrLEdGsJWVDKH2qX9uH5m
    pl-src: raolists
    start: 2010-06-09
@@ -1897,8 +1897,12 @@
    end: 2016-09-26
    
  - name: Super Mario Star Road
-   link: https://hacks.sm64hacks.com/hack/2
-   link-type: website
+   link: https://www.smwcentral.net/?p=section&a=details&id=13353
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLRxUscl5t0rzOkKK949ezjgfs3Vsz0jAv
+   pl-src: nicolaos
+   start: 2016-09-22
+   end: 2016-11-30
  
  - name: Mischief Makers
    link: https://en.wikipedia.org/wiki/Mischief_Makers
@@ -1920,8 +1924,8 @@
  - name: Off Camera
  
  - name: "Super ASPE Mario: All Stars Performance Edition"
-   link: http://smwdb.me/db/d/dc42b635c2003b52fe70ea4e77f74ce247cb6e74/
-   link-type: smwdb
+   link: http://smwx.s602.xrea.com/view.cgi/1430139582/
+   link-type: website
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLHwzghudzWrywaeLX7_yFA
    pl-src: raocow
    start: 2017-03-08
@@ -3689,6 +3693,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLT4UC-nPkBacGdHMK2kG_W
    pl-src: raocow
    start: 2022-11-22
+   end: 2023-01-27
  
  - name: "Advent Christmas Classic"
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKTI-thb2RW-zFgM-W1-uv1
@@ -3745,6 +3750,8 @@
  - name: "Mario & Sonic at the Olympic Winter Games (Wii)"
 
  - name: "The Messenger"
+   link: https://store.steampowered.com/app/764790/The_Messenger/
+   link-type: steam
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIaK7a0afBwYegRo9mCgCZm
    pl-src: raocow
    start: 2023-02-21
@@ -3769,23 +3776,54 @@
    end: 2023-03-18
 
  - name: "Paper Mario"
+   link: https://www.igdb.com/games/paper-mario
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLcny_XRHaxV9DpMdVMPab_
    pl-src: raocow
    start: 2023-03-14
    
  - name: "Klonoa: Door to Phantomile"
+   link: https://www.igdb.com/games/klonoa-door-to-phantomile
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLErmuVHgjwMgcLR8PvFmjh
    pl-src: raocow
    start: 2023-03-25
    end: 2023-04-10
    
  - name: "Chocolate Level Design Contest 2020"
+   link: https://www.smwcentral.net/?p=viewthread&t=103618&page=1&pid=1548550#p1548550
+   link-type: smwc
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKSvpcxPzohbBPmpcN6p_LK
    pl-src: raocow
    start: 2023-04-09
    
  - name: "WarioWare, Inc.: Mega Microgame$!"
+   link: https://www.igdb.com/games/warioware-inc-mega-microgames
+   link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIADiS1jnzMxItfmPigkKNJ
    pl-src: raocow
    start: 2023-04-12
+   end: 2023-04-27
+
+ - name: "Here Comes Niko!"
+   link: https://store.steampowered.com/app/925950/Here_Comes_Niko/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ-2rgdAuTygvnDU2mIG-pU
+   pl-src: raocow
+   start: 2023-04-29
+   end: 2023-05-14
+
+ - name: "WarioWare Grid"
+   link: https://www.igdb.com/games/warioware-inc-mega-microgames
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDJ-2rgdAuTygvnDU2mIG-pU
+   pl-src: raocow
+   start: 2023-05-14
+   
+ - name: "Vangers: One for the Road"
+   link: https://www.igdb.com/games/vangers
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLQ9J7TWsQ9l4xITvr4MmFJ
+   pl-src: raocow
+   start: 2023-05-15
 ...
