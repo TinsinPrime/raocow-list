@@ -236,7 +236,7 @@
    end: 2009-03-01
    
  - name: Rise to the Challenge
-   link: http://smwdb.me/db/4/42036589fa6e0dfdac65a998c5e3cc2cfad88228/
+   link: https://smwc.me/s/9029
    link-type: smwdb
    pl: https://www.youtube.com/playlist?list=PL197EE97FAF0C7C35
    pl-src: raocow
@@ -3796,6 +3796,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKSvpcxPzohbBPmpcN6p_LK
    pl-src: raocow
    start: 2023-04-09
+   end: 2023-05-13
    
  - name: "WarioWare, Inc.: Mega Microgame$!"
    link: https://www.igdb.com/games/warioware-inc-mega-microgames
@@ -3820,10 +3821,40 @@
    pl-src: raocow
    start: 2023-05-14
    
+ - name: "Cuphead: The Delicious Last Course"
+   link: https://store.steampowered.com/app/1117850/
+   link-type: steam
+   pl: https://www.youtube.com/watch?v=BqvGJu6pHfc&list=PLQhrpbbm5TDKGWQ0lPebJBwPafZouLICc&index=19
+   pl-src: raocow
+   start: 2023-05-15
+   end: 2023-05-21
+
  - name: "Vangers: One for the Road"
    link: https://www.igdb.com/games/vangers
    link-type: igdb
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLQ9J7TWsQ9l4xITvr4MmFJ
    pl-src: raocow
    start: 2023-05-15
+
+ - name: "Super Sami Roll"
+   link: https://store.steampowered.com/app/1554640/Super_Sami_Roll/
+   link-type: steam
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLsugWyp7jmD674x7CH76qH
+   pl-src: raocow
+   start: 2023-05-16
+
+ - name: "Blast Corps"
+   link: https://www.igdb.com/games/blast-corps
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLaHX-vuJEkk1M1AnNNh5Fe
+   pl-src: raocow
+   start: 2023-05-22
+   end: 2023-06-12
+
+ - name: "Ape Escape"
+   link: https://www.igdb.com/games/ape-escape
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKjJBLcxpQ7-UzBDnj0bDC_
+   pl-src: raocow
+   start: 2023-06-14
 ...
