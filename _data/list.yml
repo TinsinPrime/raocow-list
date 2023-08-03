@@ -3781,6 +3781,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLcny_XRHaxV9DpMdVMPab_
    pl-src: raocow
    start: 2023-03-14
+   end: 2023-05-13
    
  - name: "Klonoa: Door to Phantomile"
    link: https://www.igdb.com/games/klonoa-door-to-phantomile
@@ -3835,6 +3836,7 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLQ9J7TWsQ9l4xITvr4MmFJ
    pl-src: raocow
    start: 2023-05-15
+   end: 2023-07-01
 
  - name: "Super Sami Roll"
    link: https://store.steampowered.com/app/1554640/Super_Sami_Roll/
@@ -3842,6 +3844,8 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLsugWyp7jmD674x7CH76qH
    pl-src: raocow
    start: 2023-05-16
+   end: 2023-01-24
+
 
  - name: "Blast Corps"
    link: https://www.igdb.com/games/blast-corps
@@ -3857,4 +3861,46 @@
    pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKjJBLcxpQ7-UzBDnj0bDC_
    pl-src: raocow
    start: 2023-06-14
+   end: 2023-07-11
+
+ - name: "Mirror's Edge"
+   link: https://www.igdb.com/games/mirror-s-edge
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDIEKVdIfvIljykGqOMnbkCb
+   pl-src: raocow
+   start: 2023-06-26
+   end: 2023-07-11
+
+
+ - name: "Excitebike"
+   link: https://www.igdb.com/games/excitebike
+   link-type: igdb
+   pl: https://www.youtube.com/watch?v=uQoEArL45L4
+   pl-src: video
+   start: 2023-07-03
+   end: 2023-07-03
+
+
+ - name: "God Hand"
+   link: https://www.igdb.com/games/god-hand
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKXsT9HVvkfzNGtYeFcOzb-
+   pl-src: raocow
+   start: 2023-07-05
+
+ - name: "Kirby's Return To Dream Land"
+   link: https://www.igdb.com/games/kirbys-return-to-dream-land
+   link-type: igdb
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDKvMOWqklGKsHGWa3CEqL9U
+   pl-src: raocow
+   start: 2023-07-13
+
+
+ - name: "R-ACK"
+   link: https://www.smwcentral.net/?p=section&a=details&id=27001
+   link-type: smwc
+   pl: https://www.youtube.com/playlist?list=PLQhrpbbm5TDLQTwbKuwv4HA724FBXimN0
+   pl-src: raocow
+   start: 2023-07-13
+
 ...
